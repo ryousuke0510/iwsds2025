@@ -1,0 +1,13 @@
+[
+    {
+        "ID": 2365,
+        "MODEL": "Pro_Finetune",
+        "dialogue_history": [
+            "'seller': 'こんにちは'",
+            "'user': 'こんにちは'",
+            "'seller': 'あなたは銀河に興味がありますか？'",
+            "'user': 'ないです'",
+            "'seller': '終了します。'"
+        ]
+    }
+]

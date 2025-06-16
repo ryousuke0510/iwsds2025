@@ -1,0 +1,11 @@
+[
+    {
+        "ID": 1219,
+        "MODEL": "Standard_Finetune",
+        "dialogue_history": [
+            "'seller': 'こんにちは'",
+            "'user': 'こんにちは、これはテストです'",
+            "'seller': 'このユニットについてどう思いますか？'"
+        ]
+    }
+]

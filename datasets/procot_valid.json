@@ -1,0 +1,1002 @@
+[
+    {
+        "ID": 1001,
+        "item_description": "housing parker is that thrill you feel when inspiration strikes . perched proudly on shattuck avenue in berkeley this collection of carefully crafted sustainably designed apartments offer immediate access to music venues boutique shopping nightlife green space the gourmet ghetto and at home get to know your neighbors by the crackling light of a fire pit get focused in our co working space or burn some calories at the on site equinox fitness club . with convenient amenities like a pet spa bike lounge secured parking and a package concierge parker allows you to immerse yourself fully in berkeley s colorful community without sweating the day to day stuff . flexible lease terms months parker apartments now accepting below market rate applications",
+        "traget_price": 946,
+        "gold_respose": "I am really sorry. That's.  The most I've ever seen him do to be honest he normally maxes out at 5 off. I think with his current mood  i could get him to 926 and throw in a key to the gym",
+        "gold_process": "The current negotiation progress shows that the buyer is interested in reducing the rent from $946 to $800, which is a significant drop. The seller has already negotiated a discount of $10 and the first month free, bringing the price down to $936. However, the buyer's request for $800 seems unrealistic given the seller's previous concessions. The appropriate goal is to maintain a competitive price while still showing willingness to negotiate.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Hedge",
+        "dialogue_history": "'buyer': 'Hi. I am interested in the apartment you have listed. Can you give me a little more information about it?', 'seller': 'Well its a great place well designed and well lit', 'buyer': 'Are there any swimming pools? Any utilities included in the monthly price? How new is the unit?', 'seller': 'No pools but we have a fitness center and we are close to a lot of entertainment venues. We have a pet spa and a fire pit for get together and of course the maintenance of all these amenities is included in the price', 'buyer': 'Is there any utilities included? How new is the unit? These were not answered in your above answer.', 'seller': 'No utilities and the unit is only in its 5 th year however all appliances are upgrades and so are the fixtures so I can promise a fairly low utility bill in relation to your utility usage', 'buyer': 'The monthly price is a bit steep, are you able to negotiate?', 'seller': 'You know what normally i would say no but im gonna go talk to my manager and see what he say give me a few ', 'buyer': 'Okay, thank you so much.', 'seller': 'Oh my God this never happens my. Manager is willing to waive your application fee and take ten dollars off your monthly rent with the first month free meaning you'll only have to pay 936 per month I swear this never happens and I have no idea what's gotten into him.', 'buyer': 'While that is a great deal, is there anyway he would go to $800 a month with all the above terms. I am new to the area and things are a little tight right now. I would also be a long term renter.'"
+    },
+    {
+        "ID": 1002,
+        "item_description": "housing parker is that thrill you feel when inspiration strikes . perched proudly on shattuck avenue in berkeley this collection of carefully crafted sustainably designed apartments offer immediate access to music venues boutique shopping nightlife green space the gourmet ghetto and at home get to know your neighbors by the crackling light of a fire pit get focused in our co working space or burn some calories at the on site equinox fitness club . with convenient amenities like a pet spa bike lounge secured parking and a package concierge parker allows you to immerse yourself fully in berkeley s colorful community without sweating the day to day stuff . flexible lease terms months parker apartments now accepting below market rate applications",
+        "traget_price": 946,
+        "gold_respose": "no and.  I dont want to bother him too much or else his mood may go bad",
+        "gold_process": "The current negotiation progress indicates that the buyer is keen to reduce the monthly price to $850 but is faced with resistance from the seller, who has already offered a substantial discount. The seller's maximum previous offer was $926, highlighting an agreed willingness to negotiate but within a limited range. The appropriate goal at this stage is to maintain the existing offer of $926 while addressing the buyer's concerns about financial limitations.",
+        "dialogue_act": "disagree",
+        "nego_strategy": "Address-Concerns",
+        "dialogue_history": "'buyer': 'Hi. I am interested in the apartment you have listed. Can you give me a little more information about it?', 'seller': 'Well its a great place well designed and well lit', 'buyer': 'Are there any swimming pools? Any utilities included in the monthly price? How new is the unit?', 'seller': 'No pools but we have a fitness center and we are close to a lot of entertainment venues. We have a pet spa and a fire pit for get together and of course the maintenance of all these amenities is included in the price', 'buyer': 'Is there any utilities included? How new is the unit? These were not answered in your above answer.', 'seller': 'No utilities and the unit is only in its 5 th year however all appliances are upgrades and so are the fixtures so I can promise a fairly low utility bill in relation to your utility usage', 'buyer': 'The monthly price is a bit steep, are you able to negotiate?', 'seller': 'You know what normally i would say no but im gonna go talk to my manager and see what he say give me a few ', 'buyer': 'Okay, thank you so much.', 'seller': 'Oh my God this never happens my. Manager is willing to waive your application fee and take ten dollars off your monthly rent with the first month free meaning you'll only have to pay 936 per month I swear this never happens and I have no idea what's gotten into him.', 'buyer': 'While that is a great deal, is there anyway he would go to $800 a month with all the above terms. I am new to the area and things are a little tight right now. I would also be a long term renter.', 'seller': 'I am really sorry. That's.  The most I've ever seen him do to be honest he normally maxes out at 5 off. I think with his current mood  i could get him to 926 and throw in a key to the gym', 'buyer': 'Do you think that you could talk him into $850?'"
+    },
+    {
+        "ID": 1003,
+        "item_description": "housing parker is that thrill you feel when inspiration strikes . perched proudly on shattuck avenue in berkeley this collection of carefully crafted sustainably designed apartments offer immediate access to music venues boutique shopping nightlife green space the gourmet ghetto and at home get to know your neighbors by the crackling light of a fire pit get focused in our co working space or burn some calories at the on site equinox fitness club . with convenient amenities like a pet spa bike lounge secured parking and a package concierge parker allows you to immerse yourself fully in berkeley s colorful community without sweating the day to day stuff . flexible lease terms months parker apartments now accepting below market rate applications",
+        "traget_price": 946,
+        "gold_respose": "Give me another few mins ill grill him a little more",
+        "gold_process": "The current negotiation has progressed to a point where the buyer is seeking a significant reduction in the monthly rent, pushing towards $850, while the seller has offered a best price of $926. The buyer has expressed their situation, indicating financial constraints as they are new to the area. The seller’s goal is to find a middle ground without pushing the manager too hard, so as to maintain a positive relationship. An appropriate goal at this stage would be to see if the manager can agree to a slightly better deal or perhaps justify the current listed price by highlighting the value offered by the apartment.",
+        "dialogue_act": "others",
+        "nego_strategy": "Hedge",
+        "dialogue_history": "'buyer': 'Hi. I am interested in the apartment you have listed. Can you give me a little more information about it?', 'seller': 'Well its a great place well designed and well lit', 'buyer': 'Are there any swimming pools? Any utilities included in the monthly price? How new is the unit?', 'seller': 'No pools but we have a fitness center and we are close to a lot of entertainment venues. We have a pet spa and a fire pit for get together and of course the maintenance of all these amenities is included in the price', 'buyer': 'Is there any utilities included? How new is the unit? These were not answered in your above answer.', 'seller': 'No utilities and the unit is only in its 5 th year however all appliances are upgrades and so are the fixtures so I can promise a fairly low utility bill in relation to your utility usage', 'buyer': 'The monthly price is a bit steep, are you able to negotiate?', 'seller': 'You know what normally i would say no but im gonna go talk to my manager and see what he say give me a few ', 'buyer': 'Okay, thank you so much.', 'seller': 'Oh my God this never happens my. Manager is willing to waive your application fee and take ten dollars off your monthly rent with the first month free meaning you'll only have to pay 936 per month I swear this never happens and I have no idea what's gotten into him.', 'buyer': 'While that is a great deal, is there anyway he would go to $800 a month with all the above terms. I am new to the area and things are a little tight right now. I would also be a long term renter.', 'seller': 'I am really sorry. That's.  The most I've ever seen him do to be honest he normally maxes out at 5 off. I think with his current mood  i could get him to 926 and throw in a key to the gym', 'buyer': 'Do you think that you could talk him into $850?', 'seller': 'no and.  I dont want to bother him too much or else his mood may go bad', 'buyer': 'Awe, that is still pretty steep.'"
+    },
+    {
+        "ID": 1004,
+        "item_description": "housing parker is that thrill you feel when inspiration strikes . perched proudly on shattuck avenue in berkeley this collection of carefully crafted sustainably designed apartments offer immediate access to music venues boutique shopping nightlife green space the gourmet ghetto and at home get to know your neighbors by the crackling light of a fire pit get focused in our co working space or burn some calories at the on site equinox fitness club . with convenient amenities like a pet spa bike lounge secured parking and a package concierge parker allows you to immerse yourself fully in berkeley s colorful community without sweating the day to day stuff . flexible lease terms months parker apartments now accepting below market rate applications",
+        "traget_price": 946,
+        "gold_respose": "ok so I spoke to him and he got a little annoyed but that may have worked in your favor he said 900 and that's it final offer",
+        "gold_process": "Currently, the buyer has proposed a price of $850, but the seller has expressed that this is not feasible given the manager's authority and previous negotiations. The seller has already moved down to $926, which is close to the initial asking price of $946. The buyer's intent to secure a long-term rental and payment reliability has been acknowledged. The goal now is to arrive at a price that accommodates both the buyer's budget and the seller's limitations while reflecting the value of the apartment.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'Hi. I am interested in the apartment you have listed. Can you give me a little more information about it?', 'seller': 'Well its a great place well designed and well lit', 'buyer': 'Are there any swimming pools? Any utilities included in the monthly price? How new is the unit?', 'seller': 'No pools but we have a fitness center and we are close to a lot of entertainment venues. We have a pet spa and a fire pit for get together and of course the maintenance of all these amenities is included in the price', 'buyer': 'Is there any utilities included? How new is the unit? These were not answered in your above answer.', 'seller': 'No utilities and the unit is only in its 5 th year however all appliances are upgrades and so are the fixtures so I can promise a fairly low utility bill in relation to your utility usage', 'buyer': 'The monthly price is a bit steep, are you able to negotiate?', 'seller': 'You know what normally i would say no but im gonna go talk to my manager and see what he say give me a few ', 'buyer': 'Okay, thank you so much.', 'seller': 'Oh my God this never happens my. Manager is willing to waive your application fee and take ten dollars off your monthly rent with the first month free meaning you'll only have to pay 936 per month I swear this never happens and I have no idea what's gotten into him.', 'buyer': 'While that is a great deal, is there anyway he would go to $800 a month with all the above terms. I am new to the area and things are a little tight right now. I would also be a long term renter.', 'seller': 'I am really sorry. That's.  The most I've ever seen him do to be honest he normally maxes out at 5 off. I think with his current mood  i could get him to 926 and throw in a key to the gym', 'buyer': 'Do you think that you could talk him into $850?', 'seller': 'no and.  I dont want to bother him too much or else his mood may go bad', 'buyer': 'Awe, that is still pretty steep.', 'seller': 'Give me another few mins ill grill him a little more', 'buyer': 'Okay, thank you. I really hope you can get him down more. Like I said, I would be a long term renter and I pay on time every month.'"
+    },
+    {
+        "ID": 1005,
+        "item_description": "housing parker is that thrill you feel when inspiration strikes . perched proudly on shattuck avenue in berkeley this collection of carefully crafted sustainably designed apartments offer immediate access to music venues boutique shopping nightlife green space the gourmet ghetto and at home get to know your neighbors by the crackling light of a fire pit get focused in our co working space or burn some calories at the on site equinox fitness club . with convenient amenities like a pet spa bike lounge secured parking and a package concierge parker allows you to immerse yourself fully in berkeley s colorful community without sweating the day to day stuff . flexible lease terms months parker apartments now accepting below market rate applications",
+        "traget_price": 946,
+        "gold_respose": "Why of course and i promise as soon as you move in you will see the value of the place",
+        "gold_process": "The current negotiation progress indicates that the buyer is very interested in the apartment but is struggling with the monthly rent price. They previously countered with a significantly lower offer of $800 but the seller has been negotiating down from the original price of $946, now offering $900 while waiving the application fee, providing the first month free, and including a gym membership key. The buyer is seeking reassurance that these terms will still apply and is expressing their interest in being a long-term renter, which highlights their commitment and reliability as a tenant.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Address-Concerns",
+        "dialogue_history": "'buyer': 'Hi. I am interested in the apartment you have listed. Can you give me a little more information about it?', 'seller': 'Well its a great place well designed and well lit', 'buyer': 'Are there any swimming pools? Any utilities included in the monthly price? How new is the unit?', 'seller': 'No pools but we have a fitness center and we are close to a lot of entertainment venues. We have a pet spa and a fire pit for get together and of course the maintenance of all these amenities is included in the price', 'buyer': 'Is there any utilities included? How new is the unit? These were not answered in your above answer.', 'seller': 'No utilities and the unit is only in its 5 th year however all appliances are upgrades and so are the fixtures so I can promise a fairly low utility bill in relation to your utility usage', 'buyer': 'The monthly price is a bit steep, are you able to negotiate?', 'seller': 'You know what normally i would say no but im gonna go talk to my manager and see what he say give me a few ', 'buyer': 'Okay, thank you so much.', 'seller': 'Oh my God this never happens my. Manager is willing to waive your application fee and take ten dollars off your monthly rent with the first month free meaning you'll only have to pay 936 per month I swear this never happens and I have no idea what's gotten into him.', 'buyer': 'While that is a great deal, is there anyway he would go to $800 a month with all the above terms. I am new to the area and things are a little tight right now. I would also be a long term renter.', 'seller': 'I am really sorry. That's.  The most I've ever seen him do to be honest he normally maxes out at 5 off. I think with his current mood  i could get him to 926 and throw in a key to the gym', 'buyer': 'Do you think that you could talk him into $850?', 'seller': 'no and.  I dont want to bother him too much or else his mood may go bad', 'buyer': 'Awe, that is still pretty steep.', 'seller': 'Give me another few mins ill grill him a little more', 'buyer': 'Okay, thank you. I really hope you can get him down more. Like I said, I would be a long term renter and I pay on time every month.', 'seller': 'ok so I spoke to him and he got a little annoyed but that may have worked in your favor he said 900 and that's it final offer', 'buyer': 'Is all the above terms still apply to this offer? No application fee, and free first months rent and a key to the gym?'"
+    },
+    {
+        "ID": 1006,
+        "item_description": "housing parker is that thrill you feel when inspiration strikes . perched proudly on shattuck avenue in berkeley this collection of carefully crafted sustainably designed apartments offer immediate access to music venues boutique shopping nightlife green space the gourmet ghetto and at home get to know your neighbors by the crackling light of a fire pit get focused in our co working space or burn some calories at the on site equinox fitness club . with convenient amenities like a pet spa bike lounge secured parking and a package concierge parker allows you to immerse yourself fully in berkeley s colorful community without sweating the day to day stuff . flexible lease terms months parker apartments now accepting below market rate applications",
+        "traget_price": 946,
+        "gold_respose": "I offer the price 900.0.",
+        "gold_process": "The current negotiation progress indicates that the buyer is interested in the apartment but is concerned about the monthly price being too high. The seller has already lowered the price significantly from the initial offering, but the buyer is still looking for an even better deal. Given the previous dialogue, the seller's final offer of $900 is a compromise, but the buyer may attempt to negotiate further. The goal is to settle on a price that meets both parties' needs while ensuring the buyer feels they are getting a good deal.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'Hi. I am interested in the apartment you have listed. Can you give me a little more information about it?', 'seller': 'Well its a great place well designed and well lit', 'buyer': 'Are there any swimming pools? Any utilities included in the monthly price? How new is the unit?', 'seller': 'No pools but we have a fitness center and we are close to a lot of entertainment venues. We have a pet spa and a fire pit for get together and of course the maintenance of all these amenities is included in the price', 'buyer': 'Is there any utilities included? How new is the unit? These were not answered in your above answer.', 'seller': 'No utilities and the unit is only in its 5 th year however all appliances are upgrades and so are the fixtures so I can promise a fairly low utility bill in relation to your utility usage', 'buyer': 'The monthly price is a bit steep, are you able to negotiate?', 'seller': 'You know what normally i would say no but im gonna go talk to my manager and see what he say give me a few ', 'buyer': 'Okay, thank you so much.', 'seller': 'Oh my God this never happens my. Manager is willing to waive your application fee and take ten dollars off your monthly rent with the first month free meaning you'll only have to pay 936 per month I swear this never happens and I have no idea what's gotten into him.', 'buyer': 'While that is a great deal, is there anyway he would go to $800 a month with all the above terms. I am new to the area and things are a little tight right now. I would also be a long term renter.', 'seller': 'I am really sorry. That's.  The most I've ever seen him do to be honest he normally maxes out at 5 off. I think with his current mood  i could get him to 926 and throw in a key to the gym', 'buyer': 'Do you think that you could talk him into $850?', 'seller': 'no and.  I dont want to bother him too much or else his mood may go bad', 'buyer': 'Awe, that is still pretty steep.', 'seller': 'Give me another few mins ill grill him a little more', 'buyer': 'Okay, thank you. I really hope you can get him down more. Like I said, I would be a long term renter and I pay on time every month.', 'seller': 'ok so I spoke to him and he got a little annoyed but that may have worked in your favor he said 900 and that's it final offer', 'buyer': 'Is all the above terms still apply to this offer? No application fee, and free first months rent and a key to the gym?', 'seller': 'Why of course and i promise as soon as you move in you will see the value of the place'"
+    },
+    {
+        "ID": 1007,
+        "item_description": "car selling my dodge ram quad cab short bed new tires registered tow hitch status clean title interior color gray leather interior registration up to date will expire may clean on the inside no reap smog registered new tires auto transmission no check engine light runs great tuned up inside clean with gray seat miles k no rip on anywhere inside . option radio with one key and power window buttons clean title automatic clean title and one owner ac heater please text me at or call after pm if you are interested dodge ram quad cab clean title",
+        "traget_price": 3500,
+        "gold_respose": "My truck here, who me and my boys call the Yellow Jacket, has no accidents, you can even look it up on that fox car deal. It was well maintained and I keep up with the oil change.",
+        "gold_process": "The current negotiation progress indicates that the buyer has expressed interest in the truck and is specifically asking about its accident history, which suggests they are concerned about the vehicle's past and reliability. An appropriate goal is to reassure the buyer of the truck's condition and maintain their interest.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Address-Concerns",
+        "dialogue_history": "'buyer': 'Hi.  I am interested in the truck you have for sale.  Could you tell me about it' accident history?'"
+    },
+    {
+        "ID": 1008,
+        "item_description": "car selling my dodge ram quad cab short bed new tires registered tow hitch status clean title interior color gray leather interior registration up to date will expire may clean on the inside no reap smog registered new tires auto transmission no check engine light runs great tuned up inside clean with gray seat miles k no rip on anywhere inside . option radio with one key and power window buttons clean title automatic clean title and one owner ac heater please text me at or call after pm if you are interested dodge ram quad cab clean title",
+        "traget_price": 3500,
+        "gold_respose": "the indicator is what I meant, Its a good truck she been with me thick and thin, haul big loads so if you need a work truck here you go or even just cause you like trucks this one is for you.",
+        "gold_process": "The current negotiation progress shows that the buyer is concerned about the condition of the truck, specifically regarding the check engine light. They seek reassurance about the truck's performance and reliability. An appropriate goal here is to clarify and reinforce the reliability of the truck, thereby alleviating the buyer's concerns while moving closer to closing the sale.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Address-Concerns",
+        "dialogue_history": "'buyer': 'Hi.  I am interested in the truck you have for sale.  Could you tell me about it' accident history?', 'seller': 'My truck here, who me and my boys call the Yellow Jacket, has no accidents, you can even look it up on that fox car deal. It was well maintained and I keep up with the oil change.', 'buyer': 'WHen you say no check engine light, do you mean there IS no check indicator or it doesn't work?'"
+    },
+    {
+        "ID": 1009,
+        "item_description": "car selling my dodge ram quad cab short bed new tires registered tow hitch status clean title interior color gray leather interior registration up to date will expire may clean on the inside no reap smog registered new tires auto transmission no check engine light runs great tuned up inside clean with gray seat miles k no rip on anywhere inside . option radio with one key and power window buttons clean title automatic clean title and one owner ac heater please text me at or call after pm if you are interested dodge ram quad cab clean title",
+        "traget_price": 3500,
+        "gold_respose": "I can do at  $3,400 and get this gal I know who does tax, title and license all for this price . the no check engine light comment means it is not on so that means no problems its a good truck lets get that going today?",
+        "gold_process": "Currently, the buyer has offered $3,100 for the truck, and this offer is below my target selling price of $3,500. The buyer seems interested, especially as they are looking for a vehicle for their son, but they have concerns about the check engine light. My goal is to negotiate a price that is closer to my asking price while addressing the buyer’s concerns and highlighting the value of the truck.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'Hi.  I am interested in the truck you have for sale.  Could you tell me about it' accident history?', 'seller': 'My truck here, who me and my boys call the Yellow Jacket, has no accidents, you can even look it up on that fox car deal. It was well maintained and I keep up with the oil change.', 'buyer': 'WHen you say no check engine light, do you mean there IS no check indicator or it doesn't work?', 'seller': 'the indicator is what I meant, Its a good truck she been with me thick and thin, haul big loads so if you need a work truck here you go or even just cause you like trucks this one is for you.', 'buyer': 'I am actually looking at it for my son. He has gotten a summer job working on a farm.  But that check engine light is an important thing i may have to have replaced.  Will you accept $3,100 for the truck?'"
+    },
+    {
+        "ID": 1010,
+        "item_description": "car selling my dodge ram quad cab short bed new tires registered tow hitch status clean title interior color gray leather interior registration up to date will expire may clean on the inside no reap smog registered new tires auto transmission no check engine light runs great tuned up inside clean with gray seat miles k no rip on anywhere inside . option radio with one key and power window buttons clean title automatic clean title and one owner ac heater please text me at or call after pm if you are interested dodge ram quad cab clean title",
+        "traget_price": 3500,
+        "gold_respose": "For a 2001 Dodge ram with only 184k miles well maintained you getting a steal, lets do $3300 and I get you some seat covers too to protect the already clean seats since it going to be your boys truck",
+        "gold_process": "Currently, the negotiation has reached a point where the buyer has offered $3,200 for the Dodge Ram, demonstrating a willingness to negotiate but also showing budget constraints. The seller initially countered with $3,400 but needs to carefully consider the buyer's budget while still trying to reach a target closer to the initial selling price of $3,500. An appropriate goal would be to find a middle ground that satisfies both parties, ideally a price around $3,300, where the seller can offer added value through extras like seat covers.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'Hi.  I am interested in the truck you have for sale.  Could you tell me about it' accident history?', 'seller': 'My truck here, who me and my boys call the Yellow Jacket, has no accidents, you can even look it up on that fox car deal. It was well maintained and I keep up with the oil change.', 'buyer': 'WHen you say no check engine light, do you mean there IS no check indicator or it doesn't work?', 'seller': 'the indicator is what I meant, Its a good truck she been with me thick and thin, haul big loads so if you need a work truck here you go or even just cause you like trucks this one is for you.', 'buyer': 'I am actually looking at it for my son. He has gotten a summer job working on a farm.  But that check engine light is an important thing i may have to have replaced.  Will you accept $3,100 for the truck?', 'seller': 'I can do at  $3,400 and get this gal I know who does tax, title and license all for this price . the no check engine light comment means it is not on so that means no problems its a good truck lets get that going today?', 'buyer': 'Oh. that makes more sense.  I cannot go above $3200.'"
+    },
+    {
+        "ID": 1011,
+        "item_description": "car selling my dodge ram quad cab short bed new tires registered tow hitch status clean title interior color gray leather interior registration up to date will expire may clean on the inside no reap smog registered new tires auto transmission no check engine light runs great tuned up inside clean with gray seat miles k no rip on anywhere inside . option radio with one key and power window buttons clean title automatic clean title and one owner ac heater please text me at or call after pm if you are interested dodge ram quad cab clean title",
+        "traget_price": 3500,
+        "gold_respose": "Okay I take it",
+        "gold_process": "The current negotiation progress shows that the buyer is keenly interested in purchasing the truck but is firmly positioned at a counter-offer of $3,220. The seller initially offered $3,400 and then adjusted to $3,300, which indicates a willingness to negotiate down from the target price of $3,500. Given the buyer's insistence on a lower price and the seller's previous reduction, an appropriate goal would be to reach a compromise around $3,300.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'Hi.  I am interested in the truck you have for sale.  Could you tell me about it' accident history?', 'seller': 'My truck here, who me and my boys call the Yellow Jacket, has no accidents, you can even look it up on that fox car deal. It was well maintained and I keep up with the oil change.', 'buyer': 'WHen you say no check engine light, do you mean there IS no check indicator or it doesn't work?', 'seller': 'the indicator is what I meant, Its a good truck she been with me thick and thin, haul big loads so if you need a work truck here you go or even just cause you like trucks this one is for you.', 'buyer': 'I am actually looking at it for my son. He has gotten a summer job working on a farm.  But that check engine light is an important thing i may have to have replaced.  Will you accept $3,100 for the truck?', 'seller': 'I can do at  $3,400 and get this gal I know who does tax, title and license all for this price . the no check engine light comment means it is not on so that means no problems its a good truck lets get that going today?', 'buyer': 'Oh. that makes more sense.  I cannot go above $3200.', 'seller': 'For a 2001 Dodge ram with only 184k miles well maintained you getting a steal, lets do $3300 and I get you some seat covers too to protect the already clean seats since it going to be your boys truck', 'buyer': 'No seat covers are needed.  $3220 and i can pick it up day and you will have a deal.'"
+    },
+    {
+        "ID": 1012,
+        "item_description": "car selling my dodge ram quad cab short bed new tires registered tow hitch status clean title interior color gray leather interior registration up to date will expire may clean on the inside no reap smog registered new tires auto transmission no check engine light runs great tuned up inside clean with gray seat miles k no rip on anywhere inside . option radio with one key and power window buttons clean title automatic clean title and one owner ac heater please text me at or call after pm if you are interested dodge ram quad cab clean title",
+        "traget_price": 3500,
+        "gold_respose": "accept",
+        "gold_process": "The current negotiation progress shows that the buyer is willing to purchase the truck but has countered the price at $3,220, which is below my lower limit of $3,300. Given the feedback and the back-and-forth on price, it seems like we are very close to a deal. Accepting the buyer's offer would finalize the sale and get the truck sold without dragging the negotiation further, especially since they are ready to pick it up soon.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Accept",
+        "dialogue_history": "'buyer': 'Hi.  I am interested in the truck you have for sale.  Could you tell me about it' accident history?', 'seller': 'My truck here, who me and my boys call the Yellow Jacket, has no accidents, you can even look it up on that fox car deal. It was well maintained and I keep up with the oil change.', 'buyer': 'WHen you say no check engine light, do you mean there IS no check indicator or it doesn't work?', 'seller': 'the indicator is what I meant, Its a good truck she been with me thick and thin, haul big loads so if you need a work truck here you go or even just cause you like trucks this one is for you.', 'buyer': 'I am actually looking at it for my son. He has gotten a summer job working on a farm.  But that check engine light is an important thing i may have to have replaced.  Will you accept $3,100 for the truck?', 'seller': 'I can do at  $3,400 and get this gal I know who does tax, title and license all for this price . the no check engine light comment means it is not on so that means no problems its a good truck lets get that going today?', 'buyer': 'Oh. that makes more sense.  I cannot go above $3200.', 'seller': 'For a 2001 Dodge ram with only 184k miles well maintained you getting a steal, lets do $3300 and I get you some seat covers too to protect the already clean seats since it going to be your boys truck', 'buyer': 'No seat covers are needed.  $3220 and i can pick it up day and you will have a deal.', 'seller': 'Okay I take it', 'buyer': 'I offer the price 3220.0.'"
+    },
+    {
+        "ID": 1013,
+        "item_description": "furniture two oak side table oval with drawer matching pair very nice condition structurally sound . dimensions high oval top x cash pickup provide phone number in your reply . oak side table with drawer",
+        "traget_price": 100,
+        "gold_respose": "I would be willing to deliver it to you, if bought at full price.",
+        "gold_process": "The current negotiation is focused on the buyer's interest in having the furniture delivered, which indicates their intent to purchase is strong, especially if they are considering buying it today. Since my target selling price is $100, accommodating the delivery request at the full price can help close the sale. Therefore, my goal is to affirm the possibility of delivery while ensuring the buyer understands that it comes with the condition of purchasing at the full price.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Negotiate-Side-Offers",
+        "dialogue_history": "'buyer': 'Hi, would you be willing to deleiver the table if I buy it today?'"
+    },
+    {
+        "ID": 1014,
+        "item_description": "furniture two oak side table oval with drawer matching pair very nice condition structurally sound . dimensions high oval top x cash pickup provide phone number in your reply . oak side table with drawer",
+        "traget_price": 100,
+        "gold_respose": "No chips or scratches, very nice condition and doesn't wobble.",
+        "gold_process": "Currently, the buyer is inquiring about the condition of the furniture, specifically asking about any chips or scratches. This indicates they are concerned about the quality of the item before making a purchase decision. Our goal is to reassure the buyer about the condition of the tables to foster trust and encourage them to proceed with the purchase at the target price of $100.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Address-Concerns",
+        "dialogue_history": "'buyer': 'Hi, would you be willing to deleiver the table if I buy it today?', 'seller': 'I would be willing to deliver it to you, if bought at full price.', 'buyer': 'Is it in good condition? Any scratches or chips?'"
+    },
+    {
+        "ID": 1015,
+        "item_description": "furniture two oak side table oval with drawer matching pair very nice condition structurally sound . dimensions high oval top x cash pickup provide phone number in your reply . oak side table with drawer",
+        "traget_price": 100,
+        "gold_respose": "For $75, you would need to come pick it up. Would be great for a dorm!",
+        "gold_process": "The current negotiation progress shows that the buyer is interested in the tables and has made a counteroffer of $75, which is below the target selling price of $100. The seller has previously indicated a willingness to deliver the furniture only at full price. Given that the buyer is looking for a nightstand for their daughter and has expressed urgency in their need, an appropriate goal would be to negotiate for the full price while maintaining the offer to deliver.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Negotiate-Side-Offers",
+        "dialogue_history": "'buyer': 'Hi, would you be willing to deleiver the table if I buy it today?', 'seller': 'I would be willing to deliver it to you, if bought at full price.', 'buyer': 'Is it in good condition? Any scratches or chips?', 'seller': 'No chips or scratches, very nice condition and doesn't wobble.', 'buyer': 'Ok well it's for my daughter, she getting ready to srat college and needs a nightstand, would you take $75?'"
+    },
+    {
+        "ID": 1016,
+        "item_description": "furniture two oak side table oval with drawer matching pair very nice condition structurally sound . dimensions high oval top x cash pickup provide phone number in your reply . oak side table with drawer",
+        "traget_price": 100,
+        "gold_respose": "Great! I'll be waiting.",
+        "gold_process": "The current negotiation progress shows that the buyer is keen on purchasing the side tables but has proposed a price lower than the target selling price. The buyer has agreed to pick up the tables today, indicating urgency, which is a positive sign for closing the deal. My goal is to secure the sale at the highest price possible, ideally at the full target price of $100. However, considering the buyer's counter-offer of $75 and their readiness to pick up the item today, it may be advantageous to agree to their offer.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'Hi, would you be willing to deleiver the table if I buy it today?', 'seller': 'I would be willing to deliver it to you, if bought at full price.', 'buyer': 'Is it in good condition? Any scratches or chips?', 'seller': 'No chips or scratches, very nice condition and doesn't wobble.', 'buyer': 'Ok well it's for my daughter, she getting ready to srat college and needs a nightstand, would you take $75?', 'seller': 'For $75, you would need to come pick it up. Would be great for a dorm!', 'buyer': 'Awesome! yeah I can come pick it up later today. ', 'buyer': 'I offer the price 75.0.'"
+    },
+    {
+        "ID": 1017,
+        "item_description": "furniture two oak side table oval with drawer matching pair very nice condition structurally sound . dimensions high oval top x cash pickup provide phone number in your reply . oak side table with drawer",
+        "traget_price": 100,
+        "gold_respose": "accept",
+        "gold_process": "The current negotiation progress shows that the buyer has expressed a willingness to purchase the tables at a price of $75 and is ready to pick them up today, while I initially wanted to sell them for $100. However, since the buyer has agreed to come pick them up and is ready to complete the transaction swiftly, it presents an opportunity to finalize the deal quickly. Therefore, an appropriate goal is to close the sale while maintaining a positive interaction.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Communicate-Politely",
+        "dialogue_history": "'buyer': 'Hi, would you be willing to deleiver the table if I buy it today?', 'seller': 'I would be willing to deliver it to you, if bought at full price.', 'buyer': 'Is it in good condition? Any scratches or chips?', 'seller': 'No chips or scratches, very nice condition and doesn't wobble.', 'buyer': 'Ok well it's for my daughter, she getting ready to srat college and needs a nightstand, would you take $75?', 'seller': 'For $75, you would need to come pick it up. Would be great for a dorm!', 'buyer': 'Awesome! yeah I can come pick it up later today. ', 'buyer': 'I offer the price 75.0.', 'seller': 'Great! I'll be waiting.'"
+    },
+    {
+        "ID": 1018,
+        "item_description": "electronics come see the latest in smart hd optics . the atn binox hd binoculars are packed with so many features you will never want to use standard binoculars again . use wi fi e zoom record video compass . binox hd binoculars are the worlds most advanced digital binoculars . powered by a ghz internal computer they carry a suite of sensors to enable the senses as never before . binox hd the binoculars for the st century . specs binoculars that record video and capture pictures smooth zoom from x x image stabilization for steady video works in daylight or at night wi fi gps geotag e compass velocity image stabilization altitude record video still images p hd day night use unlike traditional optical systems our electronic zoom offers incredible flexibility in the field built in wi fi allows a user to connect to mobile device or a desktop computer use your phone as a viewfinder upgrade to the latest firmware . please refer user manual attached below for instructions and troubleshooting steps if you have any questions give us a call at best collateral telegraph ave binox hd x binoculars",
+        "traget_price": 380,
+        "gold_respose": "Hi, I see you are interested in the Binoculars I advertised",
+        "gold_process": "The current negotiation progress indicates that the buyer is interested in the binoculars, but no specific offers or counteroffers have been made yet. Building a rapport with the buyer could establish trust and make them more inclined to negotiate favorably. An appropriate goal would be to create a friendly atmosphere that encourages the buyer to engage further in the negotiation process.",
+        "dialogue_act": "intro",
+        "nego_strategy": "Build-Rapport",
+        "dialogue_history": ""
+    },
+    {
+        "ID": 1019,
+        "item_description": "electronics come see the latest in smart hd optics . the atn binox hd binoculars are packed with so many features you will never want to use standard binoculars again . use wi fi e zoom record video compass . binox hd binoculars are the worlds most advanced digital binoculars . powered by a ghz internal computer they carry a suite of sensors to enable the senses as never before . binox hd the binoculars for the st century . specs binoculars that record video and capture pictures smooth zoom from x x image stabilization for steady video works in daylight or at night wi fi gps geotag e compass velocity image stabilization altitude record video still images p hd day night use unlike traditional optical systems our electronic zoom offers incredible flexibility in the field built in wi fi allows a user to connect to mobile device or a desktop computer use your phone as a viewfinder upgrade to the latest firmware . please refer user manual attached below for instructions and troubleshooting steps if you have any questions give us a call at best collateral telegraph ave binox hd x binoculars",
+        "traget_price": 380,
+        "gold_respose": "I am sorry but I paid $800 for this item brand new. It is state of the are, top of the line. You won't find them new in the store for under $500 and those are knockoffs with a third of the features.",
+        "gold_process": "Currently, the buyer is expressing interest in the binoculars but has proposed a significantly low price of $175, which is far below the target selling price of $380. The goal is to communicate the high value and state-of-the-art features of the binoculars while indicating that the proposed price is unacceptable. Therefore, the most appropriate negotiation strategy is 'Negative-Sentiment' to express the seller's disappointment at the buyer's offer, and the most appropriate dialogue act is 'disagree' to clearly reject the offer while emphasizing the value of the item.",
+        "dialogue_act": "disagree",
+        "nego_strategy": "Negative-Sentiment",
+        "dialogue_history": "'seller': 'Hi, I see you are interested in the Binoculars I advertised', 'buyer': 'Yes, it looks good, but I was wondering if you are willing to take $175.'"
+    },
+    {
+        "ID": 1020,
+        "item_description": "furniture black ikea dining room table . it is inches long and it extends to an extra inches . comes with chairs included with it . minor scratches on the table . must pick up i live around lake merritt oakland . email if interested ! ikea black extending dining room table chairs",
+        "traget_price": 95,
+        "gold_respose": "Hello, are you interested in the dining room table I have listed?",
+        "gold_process": "The current negotiation progress shows that there is interest in the dining room table, but no specific offer has been made yet. The buyer has not provided any indications about their budget or concerns, which suggests that we should aim to stimulate further interest and communication. A suitable goal would be to engage the buyer more closely to assess their interest and potentially encourage an offer closer to our target price of 95.",
+        "dialogue_act": "inquiry",
+        "nego_strategy": "Communicate-Politely",
+        "dialogue_history": ""
+    },
+    {
+        "ID": 1021,
+        "item_description": "furniture black ikea dining room table . it is inches long and it extends to an extra inches . comes with chairs included with it . minor scratches on the table . must pick up i live around lake merritt oakland . email if interested ! ikea black extending dining room table chairs",
+        "traget_price": 95,
+        "gold_respose": "Yes, I will consider it, however I believe $95 is quite fair because the table to quite big and it includes 4 chairs as well.",
+        "gold_process": "The current negotiation progress indicates that the buyer is interested but is looking for a lower price than the listed $95. My goal is to maintain the price around $95 while justifying its value to the buyer, as it is fair given the quality and included items.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hello, are you interested in the dining room table I have listed?', 'buyer': 'I noitice that your list price is $95, would you consider taking a lower offer?'"
+    },
+    {
+        "ID": 1022,
+        "item_description": "furniture black ikea dining room table . it is inches long and it extends to an extra inches . comes with chairs included with it . minor scratches on the table . must pick up i live around lake merritt oakland . email if interested ! ikea black extending dining room table chairs",
+        "traget_price": 95,
+        "gold_respose": "The scratches are extremely minor, but what is your offer?",
+        "gold_process": "The current negotiation progress indicates that the buyer has raised concerns about the scratches on the table and the responsibility of picking it up. The seller has justified the price by pointing out the value of the table and the included chairs. However, the buyer is still seeking a lower price. An appropriate goal would be to reassure the buyer about the condition of the table while encouraging a specific offer that could lead to a productive negotiation.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Address-Concerns",
+        "dialogue_history": "'seller': 'Hello, are you interested in the dining room table I have listed?', 'buyer': 'I noitice that your list price is $95, would you consider taking a lower offer?', 'seller': 'Yes, I will consider it, however I believe $95 is quite fair because the table to quite big and it includes 4 chairs as well.', 'buyer': 'Yes, it would be a fair price but the table has scratches and I have to pick it up myself. '"
+    },
+    {
+        "ID": 1023,
+        "item_description": "furniture black ikea dining room table . it is inches long and it extends to an extra inches . comes with chairs included with it . minor scratches on the table . must pick up i live around lake merritt oakland . email if interested ! ikea black extending dining room table chairs",
+        "traget_price": 95,
+        "gold_respose": "I wouldn't be able to accept anything lower than $80. ",
+        "gold_process": "The negotiation is currently leaning towards some resistance from the buyer, who has made a significantly lower offer of $40 compared to my asking price of $95. Although I've communicated the fairness of my price considering the size and inclusion of four chairs, the buyer has pointed out the table's scratches and the need for self-pickup as reasons for a lower offer. My goal now is to counter the low offer while still progressing the negotiation towards a more reasonable compromise.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Show-Dominance",
+        "dialogue_history": "'seller': 'Hello, are you interested in the dining room table I have listed?', 'buyer': 'I noitice that your list price is $95, would you consider taking a lower offer?', 'seller': 'Yes, I will consider it, however I believe $95 is quite fair because the table to quite big and it includes 4 chairs as well.', 'buyer': 'Yes, it would be a fair price but the table has scratches and I have to pick it up myself. ', 'seller': 'The scratches are extremely minor, but what is your offer?', 'buyer': 'I would like to offer $40'"
+    },
+    {
+        "ID": 1024,
+        "item_description": "furniture black ikea dining room table . it is inches long and it extends to an extra inches . comes with chairs included with it . minor scratches on the table . must pick up i live around lake merritt oakland . email if interested ! ikea black extending dining room table chairs",
+        "traget_price": 95,
+        "gold_respose": "I think $80 is more than fair for this table and chairs.",
+        "gold_process": "The negotiation has progressed to a point where the buyer has offered $60 after I countered their earlier offer of $40. I have already expressed my minimum acceptable price of $80, but the buyer is still significantly below that. My goal is to maintain my position while proposing a price that shows willingness to negotiate but also communicates the value of the item being sold.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hello, are you interested in the dining room table I have listed?', 'buyer': 'I noitice that your list price is $95, would you consider taking a lower offer?', 'seller': 'Yes, I will consider it, however I believe $95 is quite fair because the table to quite big and it includes 4 chairs as well.', 'buyer': 'Yes, it would be a fair price but the table has scratches and I have to pick it up myself. ', 'seller': 'The scratches are extremely minor, but what is your offer?', 'buyer': 'I would like to offer $40', 'seller': 'I wouldn't be able to accept anything lower than $80. ', 'buyer': 'Do you think we could meet in the middle at $60?'"
+    },
+    {
+        "ID": 1025,
+        "item_description": "housing great location ! just several blocks to u . c . a charming spanish mission style building . this studio unit is about sq . ft . bright and sunny with a lot of windows and has larger closet space . convenient to uc berkeley shattuck ave . telegraph ave . shops school bart . physical address haste st . berkeley ca nearest street intersection dana st . and ellsworth st . apartment features include carpet floors nearly throughout full size kitchen with eating area . plus gas range and refrigerator . lots of windows for great natural light coin laundry on site ! water garbage services included with monthly rent move in cost studio some notable terms and conditions i . e . the fine print one year lease term required . smoke free apartment . sorry no section or water filled furniture . good credit rating needed . credit check performed for each resident . can t make the open house ? no problem ! call li li for viewing schedule sunny ! location ! close to ucb",
+        "traget_price": 1850,
+        "gold_respose": "Hello, are you interested in my place?",
+        "gold_process": "The current negotiation progress shows that the buyer is likely looking for an affordable living option near the university, as reflected in their interest in the studio apartment with various amenities. The target selling price of $1850 is competitive given the location and features of the apartment. An appropriate goal is to confirm the buyer's interest while maintaining a polite and engaging tone to encourage further discussion about the property's value.",
+        "dialogue_act": "inquiry",
+        "nego_strategy": "Communicate-Politely",
+        "dialogue_history": ""
+    },
+    {
+        "ID": 1026,
+        "item_description": "housing great location ! just several blocks to u . c . a charming spanish mission style building . this studio unit is about sq . ft . bright and sunny with a lot of windows and has larger closet space . convenient to uc berkeley shattuck ave . telegraph ave . shops school bart . physical address haste st . berkeley ca nearest street intersection dana st . and ellsworth st . apartment features include carpet floors nearly throughout full size kitchen with eating area . plus gas range and refrigerator . lots of windows for great natural light coin laundry on site ! water garbage services included with monthly rent move in cost studio some notable terms and conditions i . e . the fine print one year lease term required . smoke free apartment . sorry no section or water filled furniture . good credit rating needed . credit check performed for each resident . can t make the open house ? no problem ! call li li for viewing schedule sunny ! location ! close to ucb",
+        "traget_price": 1850,
+        "gold_respose": "Well it is located just a few blocks from UCB. It features carpeted floors, a full-size kitchen, and lots of windows! It is a Spanish Mission style building which are really popular right now. We are asking $1850.",
+        "gold_process": "The current negotiation progress shows that the buyer has expressed interest in the property and is seeking more information. The goal is to provide a compelling description of the apartment to encourage the buyer to consider it seriously and move towards discussing the price.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Describe-Product",
+        "dialogue_history": "'seller': 'Hello, are you interested in my place?', 'buyer': 'Yes I certainly am, can you tell me more about it?'"
+    },
+    {
+        "ID": 1027,
+        "item_description": "housing great location ! just several blocks to u . c . a charming spanish mission style building . this studio unit is about sq . ft . bright and sunny with a lot of windows and has larger closet space . convenient to uc berkeley shattuck ave . telegraph ave . shops school bart . physical address haste st . berkeley ca nearest street intersection dana st . and ellsworth st . apartment features include carpet floors nearly throughout full size kitchen with eating area . plus gas range and refrigerator . lots of windows for great natural light coin laundry on site ! water garbage services included with monthly rent move in cost studio some notable terms and conditions i . e . the fine print one year lease term required . smoke free apartment . sorry no section or water filled furniture . good credit rating needed . credit check performed for each resident . can t make the open house ? no problem ! call li li for viewing schedule sunny ! location ! close to ucb",
+        "traget_price": 1850,
+        "gold_respose": "Maybe units that are similar in style and size, but not this close to campus! Water and garbage are even included in the rent.",
+        "gold_process": "Currently, the buyer is expressing interest in the studio but is concerned about the price, mentioning that similar units are going for much less. My goal is to maintain the price at $1850 by addressing the buyer's concerns regarding pricing while emphasizing the unique benefits of my location and included utilities.",
+        "dialogue_act": "disagree",
+        "nego_strategy": "Address-Concerns",
+        "dialogue_history": "'seller': 'Hello, are you interested in my place?', 'buyer': 'Yes I certainly am, can you tell me more about it?', 'seller': 'Well it is located just a few blocks from UCB. It features carpeted floors, a full-size kitchen, and lots of windows! It is a Spanish Mission style building which are really popular right now. We are asking $1850.', 'buyer': 'Sounds great, how flexible are you on the price? There are similar units going for much less.'"
+    },
+    {
+        "ID": 1028,
+        "item_description": "housing great location ! just several blocks to u . c . a charming spanish mission style building . this studio unit is about sq . ft . bright and sunny with a lot of windows and has larger closet space . convenient to uc berkeley shattuck ave . telegraph ave . shops school bart . physical address haste st . berkeley ca nearest street intersection dana st . and ellsworth st . apartment features include carpet floors nearly throughout full size kitchen with eating area . plus gas range and refrigerator . lots of windows for great natural light coin laundry on site ! water garbage services included with monthly rent move in cost studio some notable terms and conditions i . e . the fine print one year lease term required . smoke free apartment . sorry no section or water filled furniture . good credit rating needed . credit check performed for each resident . can t make the open house ? no problem ! call li li for viewing schedule sunny ! location ! close to ucb",
+        "traget_price": 1850,
+        "gold_respose": "The lowest I can go is $1600",
+        "gold_process": "The negotiation is currently at a critical point where the buyer has proposed a significantly lower price of $1550, which is not acceptable given the value of the property and its prime location. My goal should be to advocate for a price that reflects the unit's unique features and its proximity to UCB while being open to some negotiation.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hello, are you interested in my place?', 'buyer': 'Yes I certainly am, can you tell me more about it?', 'seller': 'Well it is located just a few blocks from UCB. It features carpeted floors, a full-size kitchen, and lots of windows! It is a Spanish Mission style building which are really popular right now. We are asking $1850.', 'buyer': 'Sounds great, how flexible are you on the price? There are similar units going for much less.', 'seller': 'Maybe units that are similar in style and size, but not this close to campus! Water and garbage are even included in the rent.', 'buyer': 'Would you be willing to go down to $1550?'"
+    },
+    {
+        "ID": 1029,
+        "item_description": "housing great location ! just several blocks to u . c . a charming spanish mission style building . this studio unit is about sq . ft . bright and sunny with a lot of windows and has larger closet space . convenient to uc berkeley shattuck ave . telegraph ave . shops school bart . physical address haste st . berkeley ca nearest street intersection dana st . and ellsworth st . apartment features include carpet floors nearly throughout full size kitchen with eating area . plus gas range and refrigerator . lots of windows for great natural light coin laundry on site ! water garbage services included with monthly rent move in cost studio some notable terms and conditions i . e . the fine print one year lease term required . smoke free apartment . sorry no section or water filled furniture . good credit rating needed . credit check performed for each resident . can t make the open house ? no problem ! call li li for viewing schedule sunny ! location ! close to ucb",
+        "traget_price": 1850,
+        "gold_respose": "accept",
+        "gold_process": "The current negotiation has progressed well with the buyer expressing interest and making an offer. The buyer has proposed a price of $1600, which is acceptable for both parties, as the seller has indicated this is the lowest they can go. The goal now is to finalize the deal at this price without further negotiation.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hello, are you interested in my place?', 'buyer': 'Yes I certainly am, can you tell me more about it?', 'seller': 'Well it is located just a few blocks from UCB. It features carpeted floors, a full-size kitchen, and lots of windows! It is a Spanish Mission style building which are really popular right now. We are asking $1850.', 'buyer': 'Sounds great, how flexible are you on the price? There are similar units going for much less.', 'seller': 'Maybe units that are similar in style and size, but not this close to campus! Water and garbage are even included in the rent.', 'buyer': 'Would you be willing to go down to $1550?', 'seller': 'The lowest I can go is $1600', 'buyer': 'I can do that, deal.', 'buyer': 'I offer the price 1600.0.'"
+    },
+    {
+        "ID": 1030,
+        "item_description": "furniture we re selling a piece furniture set . sofa and chair we have the cushions but no fabric ! ! ! color toasted pecan . this high quality sofa in excellent condition ! i wash the covers and the fabric shrunk but the cushions are in excellent condition clean perfect ! ! ! interested buyer s must provide own transportation such as pick up truck . and help because this is heavy ! i ll be gladly to schedule an arrangement at convenient time thru appointment for your visual inspection . here are some links with specs http www . ebay . com itm d art seagrass dining chair pcs email if you have any questions or if you d like to come by to see them . sofa inches across x inches tall x inches deep . chair inches across x inches tall x inches deep . payment can be accepted in only cash ! thank you . sofa and arm chair sea grass natural fiber !",
+        "traget_price": 1150,
+        "gold_respose": "Hello, you are interested in the ad for the sofa set?",
+        "gold_process": "The current negotiation progress indicates that the buyer is likely curious or has shown interest in the sofa set but has not yet made a commitment or proposed a price. An appropriate goal at this stage would be to engage the buyer further and determine their specific interest or questions regarding the furniture set.",
+        "dialogue_act": "inquiry",
+        "nego_strategy": "Communicate-Politely",
+        "dialogue_history": ""
+    },
+    {
+        "ID": 1031,
+        "item_description": "furniture we re selling a piece furniture set . sofa and chair we have the cushions but no fabric ! ! ! color toasted pecan . this high quality sofa in excellent condition ! i wash the covers and the fabric shrunk but the cushions are in excellent condition clean perfect ! ! ! interested buyer s must provide own transportation such as pick up truck . and help because this is heavy ! i ll be gladly to schedule an arrangement at convenient time thru appointment for your visual inspection . here are some links with specs http www . ebay . com itm d art seagrass dining chair pcs email if you have any questions or if you d like to come by to see them . sofa inches across x inches tall x inches deep . chair inches across x inches tall x inches deep . payment can be accepted in only cash ! thank you . sofa and arm chair sea grass natural fiber !",
+        "traget_price": 1150,
+        "gold_respose": "Sure, this is a 2 piece set. We've got the sofa and the chair as pictured. You saw the dimensions in the ad I assume? The sofa is 94 inches across and the chair is 38 inches. I would be willing to take $1250 for the pair.",
+        "gold_process": "Currently, the negotiation progress indicates that the buyer is interested in the sofa set and has asked for more details. This is an opportunity to provide additional information while also moving towards the target selling price. An appropriate goal would be to secure an initial offer close to the target price of $1150.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hello, you are interested in the ad for the sofa set?', 'buyer': 'Yes I really like it can you tell me more about the set?'"
+    },
+    {
+        "ID": 1032,
+        "item_description": "furniture we re selling a piece furniture set . sofa and chair we have the cushions but no fabric ! ! ! color toasted pecan . this high quality sofa in excellent condition ! i wash the covers and the fabric shrunk but the cushions are in excellent condition clean perfect ! ! ! interested buyer s must provide own transportation such as pick up truck . and help because this is heavy ! i ll be gladly to schedule an arrangement at convenient time thru appointment for your visual inspection . here are some links with specs http www . ebay . com itm d art seagrass dining chair pcs email if you have any questions or if you d like to come by to see them . sofa inches across x inches tall x inches deep . chair inches across x inches tall x inches deep . payment can be accepted in only cash ! thank you . sofa and arm chair sea grass natural fiber !",
+        "traget_price": 1150,
+        "gold_respose": "Understood, but that's pretty far below what we paid for it and I know the sofa alone is worth more than $600. ",
+        "gold_process": "The current negotiation progress indicates that the buyer is very interested in the furniture set but has offered a price of $600, which is significantly below the seller’s asking price of $1250. The buyer's offer suggests a lower budget or desire for a bargain, while the seller needs to convey the value of the item without undervaluing it. An appropriate goal for the seller is to negotiate a higher price while addressing the buyer’s concerns about the cost.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Address-Concerns",
+        "dialogue_history": "'seller': 'Hello, you are interested in the ad for the sofa set?', 'buyer': 'Yes I really like it can you tell me more about the set?', 'seller': 'Sure, this is a 2 piece set. We've got the sofa and the chair as pictured. You saw the dimensions in the ad I assume? The sofa is 94 inches across and the chair is 38 inches. I would be willing to take $1250 for the pair.', 'buyer': 'I really like it but could offer you $600 and I will come and pick it up myself and provide my own truck'"
+    },
+    {
+        "ID": 1033,
+        "item_description": "furniture we re selling a piece furniture set . sofa and chair we have the cushions but no fabric ! ! ! color toasted pecan . this high quality sofa in excellent condition ! i wash the covers and the fabric shrunk but the cushions are in excellent condition clean perfect ! ! ! interested buyer s must provide own transportation such as pick up truck . and help because this is heavy ! i ll be gladly to schedule an arrangement at convenient time thru appointment for your visual inspection . here are some links with specs http www . ebay . com itm d art seagrass dining chair pcs email if you have any questions or if you d like to come by to see them . sofa inches across x inches tall x inches deep . chair inches across x inches tall x inches deep . payment can be accepted in only cash ! thank you . sofa and arm chair sea grass natural fiber !",
+        "traget_price": 1150,
+        "gold_respose": "The condition is actually very good. The set has been in a smoke free home and has seen very little wear from use.  I could go to $1100.",
+        "gold_process": "Currently, the buyer has expressed interest in the furniture set but has offered significantly less than the asking price. The buyer's counteroffer of $750 is still far below my target selling price of $1150. My goal now is to communicate the high quality and excellent condition of the furniture while proposing a counteroffer that is closer to my target price.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hello, you are interested in the ad for the sofa set?', 'buyer': 'Yes I really like it can you tell me more about the set?', 'seller': 'Sure, this is a 2 piece set. We've got the sofa and the chair as pictured. You saw the dimensions in the ad I assume? The sofa is 94 inches across and the chair is 38 inches. I would be willing to take $1250 for the pair.', 'buyer': 'I really like it but could offer you $600 and I will come and pick it up myself and provide my own truck', 'seller': 'Understood, but that's pretty far below what we paid for it and I know the sofa alone is worth more than $600. ', 'buyer': 'Ok I understand that is a low offer but the condition does not look that great. how about $750'"
+    },
+    {
+        "ID": 1034,
+        "item_description": "furniture we re selling a piece furniture set . sofa and chair we have the cushions but no fabric ! ! ! color toasted pecan . this high quality sofa in excellent condition ! i wash the covers and the fabric shrunk but the cushions are in excellent condition clean perfect ! ! ! interested buyer s must provide own transportation such as pick up truck . and help because this is heavy ! i ll be gladly to schedule an arrangement at convenient time thru appointment for your visual inspection . here are some links with specs http www . ebay . com itm d art seagrass dining chair pcs email if you have any questions or if you d like to come by to see them . sofa inches across x inches tall x inches deep . chair inches across x inches tall x inches deep . payment can be accepted in only cash ! thank you . sofa and arm chair sea grass natural fiber !",
+        "traget_price": 1150,
+        "gold_respose": "I could do $1,000. Do you have someone who can help you with the pick up?",
+        "gold_process": "The current negotiation progress shows that the buyer is interested in the furniture set but is concerned about the price relative to its perceived condition. The seller has already made concessions from the original price of $1250 down to $1100 and is now considering the buyer's latest offer of $1000. An appropriate goal is to finalize the sale at the highest possible price that is acceptable to both parties.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hello, you are interested in the ad for the sofa set?', 'buyer': 'Yes I really like it can you tell me more about the set?', 'seller': 'Sure, this is a 2 piece set. We've got the sofa and the chair as pictured. You saw the dimensions in the ad I assume? The sofa is 94 inches across and the chair is 38 inches. I would be willing to take $1250 for the pair.', 'buyer': 'I really like it but could offer you $600 and I will come and pick it up myself and provide my own truck', 'seller': 'Understood, but that's pretty far below what we paid for it and I know the sofa alone is worth more than $600. ', 'buyer': 'Ok I understand that is a low offer but the condition does not look that great. how about $750', 'seller': 'The condition is actually very good. The set has been in a smoke free home and has seen very little wear from use.  I could go to $1100.', 'buyer': 'that is still quite high can we agree on $1000 '"
+    },
+    {
+        "ID": 1035,
+        "item_description": "furniture we re selling a piece furniture set . sofa and chair we have the cushions but no fabric ! ! ! color toasted pecan . this high quality sofa in excellent condition ! i wash the covers and the fabric shrunk but the cushions are in excellent condition clean perfect ! ! ! interested buyer s must provide own transportation such as pick up truck . and help because this is heavy ! i ll be gladly to schedule an arrangement at convenient time thru appointment for your visual inspection . here are some links with specs http www . ebay . com itm d art seagrass dining chair pcs email if you have any questions or if you d like to come by to see them . sofa inches across x inches tall x inches deep . chair inches across x inches tall x inches deep . payment can be accepted in only cash ! thank you . sofa and arm chair sea grass natural fiber !",
+        "traget_price": 1150,
+        "gold_respose": "accept",
+        "gold_process": "The negotiation has progressed to a point where the buyer has proposed a final price of $1,000, which is lower than my target selling price of $1,150. However, the buyer has expressed readiness to pick up the item themselves, which can assist in finalizing the deal. My goal is to reach an agreement at the best possible price while ensuring the buyer is satisfied with the terms.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hello, you are interested in the ad for the sofa set?', 'buyer': 'Yes I really like it can you tell me more about the set?', 'seller': 'Sure, this is a 2 piece set. We've got the sofa and the chair as pictured. You saw the dimensions in the ad I assume? The sofa is 94 inches across and the chair is 38 inches. I would be willing to take $1250 for the pair.', 'buyer': 'I really like it but could offer you $600 and I will come and pick it up myself and provide my own truck', 'seller': 'Understood, but that's pretty far below what we paid for it and I know the sofa alone is worth more than $600. ', 'buyer': 'Ok I understand that is a low offer but the condition does not look that great. how about $750', 'seller': 'The condition is actually very good. The set has been in a smoke free home and has seen very little wear from use.  I could go to $1100.', 'buyer': 'that is still quite high can we agree on $1000 ', 'seller': 'I could do $1,000. Do you have someone who can help you with the pick up?', 'buyer': 'yes I have a friend who will help me and he has a pick up truck $1000 it is then', 'buyer': 'I offer the price 1000.0.'"
+    },
+    {
+        "ID": 1036,
+        "item_description": "bike ird blackbird modified thomson x masi cromoly record c record h dt swiss velocity deep v schwalbe ultremo r rear wheel hub rim tire record h dt swiss velocity deep v schwalbe ultremo r saddle seat post selle san marco rolls thomson pedals chain chorus gearing chainring misc . custom ti centaur sc notes frame nos built for russian olympic team in volumetrica internal lug cyrillic script campy groupset nos ergolevers nos record hubs nos masi v volumetrica cccp brand new nos",
+        "traget_price": 3450,
+        "gold_respose": "Very good. It is still available and in very good condition.",
+        "gold_process": "The buyer has expressed interest in the bike, indicating a potential for negotiation. Given that the bike is a specialized item with numerous modifications, it is crucial to highlight its unique and high-quality features to justify the asking price. Therefore, the appropriate goal is to provide clear information about the bike to enhance its perceived value.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Describe-Product",
+        "dialogue_history": "'buyer': 'Hi! I am interested in your bike'"
+    },
+    {
+        "ID": 1037,
+        "item_description": "bike ird blackbird modified thomson x masi cromoly record c record h dt swiss velocity deep v schwalbe ultremo r rear wheel hub rim tire record h dt swiss velocity deep v schwalbe ultremo r saddle seat post selle san marco rolls thomson pedals chain chorus gearing chainring misc . custom ti centaur sc notes frame nos built for russian olympic team in volumetrica internal lug cyrillic script campy groupset nos ergolevers nos record hubs nos masi v volumetrica cccp brand new nos",
+        "traget_price": 3450,
+        "gold_respose": "You are too funny. Yes a very similar bike was stolen, but that is not this one. That was my wife's bike. ",
+        "gold_process": "The current negotiation progress shows that the buyer is interested in the bike but has raised a significant concern regarding its legitimacy, citing a stolen bike that resembles it. This introduces an obstacle, as the buyer's low offer of $2,000 is substantially below the target price of $3,450. An appropriate goal here is to reassure the buyer about the bike's authenticity while also maintaining the perceived value of the item to negotiate a better price.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Build-Rapport",
+        "dialogue_history": "'buyer': 'Hi! I am interested in your bike', 'seller': 'Very good. It is still available and in very good condition.', 'buyer': 'Looks like it! However, I saw a Facebook post from the local police department about a stolen bike that looks exactly like this one. I'll take the bike for $2,000 and I'll promise not to report you to the police.'"
+    },
+    {
+        "ID": 1038,
+        "item_description": "electronics polycom soundstation f analog conference phone power wall module degree coverage from its microphones full duplex operation with echo and noise suppression allows for natural two way conversations in a teleconferencing environment very good condition used in an enterprise setting meet in downtown berkeley . monday friday am pm . cash only . polycom soundstation free linksys voip adapters",
+        "traget_price": 50,
+        "gold_respose": "Hi! That sounds good.",
+        "gold_process": "The current negotiation progress shows that the buyer has expressed interest in the Polycom Soundstation, which is a positive sign. My goal now is to establish a rapport with the buyer that could lead to a smoother negotiation process. Building rapport can help foster a connection with the buyer, making it easier to discuss the terms and possibly close the deal.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Build-Rapport",
+        "dialogue_history": "'buyer': 'Hello, I am interested in your Polycom Soundstation'"
+    },
+    {
+        "ID": 1039,
+        "item_description": "electronics polycom soundstation f analog conference phone power wall module degree coverage from its microphones full duplex operation with echo and noise suppression allows for natural two way conversations in a teleconferencing environment very good condition used in an enterprise setting meet in downtown berkeley . monday friday am pm . cash only . polycom soundstation free linksys voip adapters",
+        "traget_price": 50,
+        "gold_respose": "How about $30?",
+        "gold_process": "The current negotiation progress indicates that the buyer believes $50 is too high and has proposed a counter-offer of $25. This suggests that the buyer has done some research and is aware of newer models with more features, which may make them hesitant to agree to the original price. An appropriate goal would be to find a middle ground that satisfies both parties while still getting a reasonable price for the item.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'Hello, I am interested in your Polycom Soundstation', 'seller': 'Hi! That sounds good.', 'buyer': 'However, $50 seems way too high for this item. It only has 3 microphones. The newer models have 5! Would you take $25?'"
+    },
+    {
+        "ID": 1040,
+        "item_description": "electronics polycom soundstation f analog conference phone power wall module degree coverage from its microphones full duplex operation with echo and noise suppression allows for natural two way conversations in a teleconferencing environment very good condition used in an enterprise setting meet in downtown berkeley . monday friday am pm . cash only . polycom soundstation free linksys voip adapters",
+        "traget_price": 50,
+        "gold_respose": "Sounds good to me. $27 and you pick it up.",
+        "gold_process": "The current negotiation is progressing with the buyer indicating that they feel the price of $50 is too high, suggesting a significantly lower price of $25. The seller countered with $30, and the buyer then proposed $27 with the added benefit of picking up the item themselves. This indicates that the buyer is willing to negotiate, but still seeks the best possible deal. An appropriate goal at this stage would be to finalize the sale while acknowledging the buyer's needs, thus reaching a mutually agreeable price.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'Hello, I am interested in your Polycom Soundstation', 'seller': 'Hi! That sounds good.', 'buyer': 'However, $50 seems way too high for this item. It only has 3 microphones. The newer models have 5! Would you take $25?', 'seller': 'How about $30?', 'buyer': 'How about $27 and I'll come pick it up myself!'"
+    },
+    {
+        "ID": 1041,
+        "item_description": "electronics polycom soundstation f analog conference phone power wall module degree coverage from its microphones full duplex operation with echo and noise suppression allows for natural two way conversations in a teleconferencing environment very good condition used in an enterprise setting meet in downtown berkeley . monday friday am pm . cash only . polycom soundstation free linksys voip adapters",
+        "traget_price": 50,
+        "gold_respose": "accept",
+        "gold_process": "The current negotiation progress indicates that the buyer is interested in purchasing the Polycom Soundstation but feels that the initial asking price of $50 is too high. After a little back and forth, the buyer has proposed $27, which the seller initially accepted. The conversation has been friendly, and the buyer has expressed willingness to pick up the item themselves. The appropriate goal here is to finalize the sale at the agreed price.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Communicate-Politely",
+        "dialogue_history": "'buyer': 'Hello, I am interested in your Polycom Soundstation', 'seller': 'Hi! That sounds good.', 'buyer': 'However, $50 seems way too high for this item. It only has 3 microphones. The newer models have 5! Would you take $25?', 'seller': 'How about $30?', 'buyer': 'How about $27 and I'll come pick it up myself!', 'seller': 'Sounds good to me. $27 and you pick it up.', 'buyer': 'I offer the price 27.0.'"
+    },
+    {
+        "ID": 1042,
+        "item_description": "furniture please note buyer needs to haul decors shown in pics not included . please email for pick up . loc east dublin ca . ashley reclining leather sofa set new entertainment center",
+        "traget_price": 399,
+        "gold_respose": "Hi",
+        "gold_process": "The current negotiation progress suggests that the buyer is interested but has not yet made a proposal or inquiry about the price. The goal is to engage the buyer by initiating a friendly dialogue and expressing willingness to answer any questions about the items for sale. To achieve this, the most appropriate negotiation strategy is 'Communicate-Politely' and the most appropriate dialogue act is 'intro'. Based on the selected negotiation strategy and dialogue act, the response is \"Hi\".",
+        "dialogue_act": "intro",
+        "nego_strategy": "Communicate-Politely",
+        "dialogue_history": ""
+    },
+    {
+        "ID": 1043,
+        "item_description": "furniture please note buyer needs to haul decors shown in pics not included . please email for pick up . loc east dublin ca . ashley reclining leather sofa set new entertainment center",
+        "traget_price": 399,
+        "gold_respose": "Its a pretty crappy sofa , will you buy for 100?",
+        "gold_process": "Current negotiation progress shows that the buyer is interested in the sofa set and is seeking more information about it. As the seller, my goal is to maintain the interest of the buyer while also ensuring that I can negotiate a price closer to my target of $399. An appropriate goal would be to gauge the buyer's price expectations and move the conversation towards a compromise.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Address-Concerns",
+        "dialogue_history": "'seller': 'Hi', 'buyer': 'Hi! what can you tell me about your sofa set please?'"
+    },
+    {
+        "ID": 1044,
+        "item_description": "furniture please note buyer needs to haul decors shown in pics not included . please email for pick up . loc east dublin ca . ashley reclining leather sofa set new entertainment center",
+        "traget_price": 399,
+        "gold_respose": "I offer the price 100.0.",
+        "gold_process": "The current negotiation has taken a somewhat unconventional turn, with the seller describing the sofa set as \"pretty crappy\" and proposing a very low initial price of $100, which is significantly below the target selling price of $399. The goal here is to steer the negotiation in a manner that encourages a better offer while maintaining a sense of realism about the sofa's value.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hi', 'buyer': 'Hi! what can you tell me about your sofa set please?', 'seller': 'Its a pretty crappy sofa , will you buy for 100?'"
+    },
+    {
+        "ID": 1045,
+        "item_description": "phone i have brand new samsung galaxy s . bought them for my company but didn t end up needing them . i m taking a loss but if you buy multiple i ll cut the price even more . color midnight black please include your phone number in the email or text at samsung galaxy s midnight black brand new gb",
+        "traget_price": 650,
+        "gold_respose": "1 for 400",
+        "gold_process": "The current negotiation progress shows that the buyer is interested in the item and is inquiring about the quantity available, which indicates they may be considering purchasing multiple items. An appropriate goal would be to propose a price that entices the buyer to consider making a purchase, while still aligning with the target selling price.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'how many do you have left?'"
+    },
+    {
+        "ID": 1046,
+        "item_description": "phone i have brand new samsung galaxy s . bought them for my company but didn t end up needing them . i m taking a loss but if you buy multiple i ll cut the price even more . color midnight black please include your phone number in the email or text at samsung galaxy s midnight black brand new gb",
+        "traget_price": 650,
+        "gold_respose": "I offer the price 400.0.",
+        "gold_process": "The current negotiation progress indicates that the buyer is interested but has only asked how many phones are available. I have proposed a price of $400 for one device, which is significantly below my target selling price of $650. Therefore, an appropriate goal would be to communicate a counter offer that moves towards the target while still being appealing to the buyer.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'how many do you have left?', 'seller': '1 for 400'"
+    },
+    {
+        "ID": 1047,
+        "item_description": "phone i have brand new samsung galaxy s . bought them for my company but didn t end up needing them . i m taking a loss but if you buy multiple i ll cut the price even more . color midnight black please include your phone number in the email or text at samsung galaxy s midnight black brand new gb",
+        "traget_price": 650,
+        "gold_respose": "nope",
+        "gold_process": "The current negotiation progress indicates that the buyer has countered the seller's offer of $400 with a proposal of $350 each for the phone. The seller's goal should be to negotiate a better price that is closer to the target selling price of $650 while maintaining the perception of value in the offer. The seller also wants to communicate that $400 is the lowest acceptable price without appearing too rigid.",
+        "dialogue_act": "disagree",
+        "nego_strategy": "Hedge",
+        "dialogue_history": "'buyer': 'how many do you have left?', 'seller': '1 for 400', 'seller': 'I offer the price 400.0.', 'buyer': 'what can you do on 4? $350 ea?'"
+    },
+    {
+        "ID": 1048,
+        "item_description": "phone i have brand new samsung galaxy s . bought them for my company but didn t end up needing them . i m taking a loss but if you buy multiple i ll cut the price even more . color midnight black please include your phone number in the email or text at samsung galaxy s midnight black brand new gb",
+        "traget_price": 650,
+        "gold_respose": "quit",
+        "gold_process": "The current negotiation progress indicates that the buyer is interested in purchasing multiple units but is pushing for a lower price than what I previously offered. I initially proposed a price of $400 each, and the buyer countered with $350 each. They are now asking for my best price if they buy four units. My goal is to hold my price and potentially find a middle ground that still ensures I do not take too much of a loss while also encouraging a deal for multiple units.",
+        "dialogue_act": "disagree",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'how many do you have left?', 'seller': '1 for 400', 'seller': 'I offer the price 400.0.', 'buyer': 'what can you do on 4? $350 ea?', 'seller': 'nope', 'buyer': 'what is the best you can do if I buy 4?'"
+    },
+    {
+        "ID": 1049,
+        "item_description": "furniture dresser and matching night stand from crate barrel in good condition . dresser is missing one handle but still have handle which could potentially be re attached . need to be picked up in rockridge by saturday . dresser and matching night stand",
+        "traget_price": 200,
+        "gold_respose": "Hi. Are you interested in the dresser and nightstand",
+        "gold_process": "The current negotiation progress indicates the buyer has shown interest by initiating a conversation with a simple greeting. As the seller, my goal is to engage the buyer further and gauge their interest in the specific items I have for sale.",
+        "dialogue_act": "inquiry",
+        "nego_strategy": "Build-Rapport",
+        "dialogue_history": "'buyer': 'Hello'"
+    },
+    {
+        "ID": 1050,
+        "item_description": "furniture dresser and matching night stand from crate barrel in good condition . dresser is missing one handle but still have handle which could potentially be re attached . need to be picked up in rockridge by saturday . dresser and matching night stand",
+        "traget_price": 200,
+        "gold_respose": "I am willing to negotiate to a certain degree. What were you thinking?",
+        "gold_process": "The current negotiation progress shows that the buyer is interested in the furniture but is concerned about their financial situation as a college student and the missing handle on the dresser. They have expressed a willingness to negotiate, which opens the door for further discussion. My goal is to accommodate the buyer's situation while still moving toward a sale close to my target price of $200.",
+        "dialogue_act": "inquiry",
+        "nego_strategy": "Hedge",
+        "dialogue_history": "'buyer': 'Hello', 'seller': 'Hi. Are you interested in the dresser and nightstand', 'buyer': 'Yes, it looks very nice, but I'm a poor college student, plus its missing a handle, are you willing to negotiate?'"
+    },
+    {
+        "ID": 1051,
+        "item_description": "furniture dresser and matching night stand from crate barrel in good condition . dresser is missing one handle but still have handle which could potentially be re attached . need to be picked up in rockridge by saturday . dresser and matching night stand",
+        "traget_price": 200,
+        "gold_respose": "I could do 140 if you are willing to pick it up?",
+        "gold_process": "The current negotiation progress indicates that the buyer is interested in the dresser and nightstand but is concerned about the price due to their budget constraints as a college student. The buyer has proposed a price of $125, significantly lower than my target selling price of $200. They are also willing to pick up the items, which adds value to the deal. My appropriate goal is to increase the buyer's offer while still providing a discount to meet halfway.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'Hello', 'seller': 'Hi. Are you interested in the dresser and nightstand', 'buyer': 'Yes, it looks very nice, but I'm a poor college student, plus its missing a handle, are you willing to negotiate?', 'seller': 'I am willing to negotiate to a certain degree. What were you thinking?', 'buyer': 'The list price is 200, would you consider i pay 125 if I am willing to come pick it up?'"
+    },
+    {
+        "ID": 1052,
+        "item_description": "furniture dresser and matching night stand from crate barrel in good condition . dresser is missing one handle but still have handle which could potentially be re attached . need to be picked up in rockridge by saturday . dresser and matching night stand",
+        "traget_price": 200,
+        "gold_respose": "ok perfect. ",
+        "gold_process": "The negotiation has progressed positively, with the buyer initially proposing a price of $125, and the seller countering with $140, which the buyer accepted. The buyer's acknowledgment of the new price indicates a willingness to proceed with the transaction. The goal is to finalize the agreement and schedule a pickup time.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Communicate-Politely",
+        "dialogue_history": "'buyer': 'Hello', 'seller': 'Hi. Are you interested in the dresser and nightstand', 'buyer': 'Yes, it looks very nice, but I'm a poor college student, plus its missing a handle, are you willing to negotiate?', 'seller': 'I am willing to negotiate to a certain degree. What were you thinking?', 'buyer': 'The list price is 200, would you consider i pay 125 if I am willing to come pick it up?', 'seller': 'I could do 140 if you are willing to pick it up?', 'buyer': 'That sounds fair, lets schedule a time, its a deal.'"
+    },
+    {
+        "ID": 1053,
+        "item_description": "furniture dresser and matching night stand from crate barrel in good condition . dresser is missing one handle but still have handle which could potentially be re attached . need to be picked up in rockridge by saturday . dresser and matching night stand",
+        "traget_price": 200,
+        "gold_respose": "accept",
+        "gold_process": "The current negotiation progress has reached an agreement at the price of $140, which is a good compromise considering the original selling price of $200 and the buyer's situation as a college student. The buyer has expressed willingness to pick up the item, making this deal more favorable for both parties. An appropriate goal would be to finalize the agreement and confirm the sale to ensure a smooth transaction.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'Hello', 'seller': 'Hi. Are you interested in the dresser and nightstand', 'buyer': 'Yes, it looks very nice, but I'm a poor college student, plus its missing a handle, are you willing to negotiate?', 'seller': 'I am willing to negotiate to a certain degree. What were you thinking?', 'buyer': 'The list price is 200, would you consider i pay 125 if I am willing to come pick it up?', 'seller': 'I could do 140 if you are willing to pick it up?', 'buyer': 'That sounds fair, lets schedule a time, its a deal.', 'seller': 'ok perfect. ', 'buyer': 'I offer the price 140.0.'"
+    },
+    {
+        "ID": 1054,
+        "item_description": "electronics i have new original hard to find federal pacific electric fpe also known as stab lok later also made by american circuit breaker and challenger . these are new original manufacturer oem breakers not after market or refurbished used and cleaned . i also have brand new original fpe sub panels and service panels of different types . i have more breakers of other sizes as well . i bought this equipment many years ago before i retired and when federal pacific was federal pacific electric and produced high grade equipment . fpe breakers later got a bad rap when after market breakers came in to the market . originally federal pacific electric fpe was the only residential switching manufacturer using only copper not aluminum in their breakers and panels . this fact can be very important when installed near salt water livestock or excessive moisture areas that can destroy aluminum . these materials are brand new and have been in my stock for over thirty to forty years . if you have the need for fpe call me . i do not text . also have good stock of new original zinsco sylvania breakers and panels again not after market the p in picture is gone . federal pacific fpe stab lok circuit breaker",
+        "traget_price": 110,
+        "gold_respose": "Hi there",
+        "gold_process": "The current negotiation progress suggests that there has been limited interaction, indicated by a brief and non-specific communication. The goal here is to foster a more engaging conversation that can lead to a better understanding of the buyer's needs and potentially secure a deal for the item at the target price of 110.",
+        "dialogue_act": "intro",
+        "nego_strategy": "Communicate-Politely",
+        "dialogue_history": ""
+    },
+    {
+        "ID": 1055,
+        "item_description": "electronics i have new original hard to find federal pacific electric fpe also known as stab lok later also made by american circuit breaker and challenger . these are new original manufacturer oem breakers not after market or refurbished used and cleaned . i also have brand new original fpe sub panels and service panels of different types . i have more breakers of other sizes as well . i bought this equipment many years ago before i retired and when federal pacific was federal pacific electric and produced high grade equipment . fpe breakers later got a bad rap when after market breakers came in to the market . originally federal pacific electric fpe was the only residential switching manufacturer using only copper not aluminum in their breakers and panels . this fact can be very important when installed near salt water livestock or excessive moisture areas that can destroy aluminum . these materials are brand new and have been in my stock for over thirty to forty years . if you have the need for fpe call me . i do not text . also have good stock of new original zinsco sylvania breakers and panels again not after market the p in picture is gone . federal pacific fpe stab lok circuit breaker",
+        "traget_price": 110,
+        "gold_respose": "Good, are you contacting me about the circuit breakers?",
+        "gold_process": "The current negotiation progress shows that we have initiated contact but have not yet discussed the specifics of the item being sold, which is the circuit breakers. The buyer seems open and friendly, indicating a willingness to engage further. An appropriate goal would be to steer the conversation toward the specifics of the circuit breakers so that we can ascertain their level of interest and potentially begin negotiating the price.",
+        "dialogue_act": "inquiry",
+        "nego_strategy": "Talk-Informally",
+        "dialogue_history": "'seller': 'Hi there', 'buyer': 'hello how you doing'"
+    },
+    {
+        "ID": 1056,
+        "item_description": "electronics i have new original hard to find federal pacific electric fpe also known as stab lok later also made by american circuit breaker and challenger . these are new original manufacturer oem breakers not after market or refurbished used and cleaned . i also have brand new original fpe sub panels and service panels of different types . i have more breakers of other sizes as well . i bought this equipment many years ago before i retired and when federal pacific was federal pacific electric and produced high grade equipment . fpe breakers later got a bad rap when after market breakers came in to the market . originally federal pacific electric fpe was the only residential switching manufacturer using only copper not aluminum in their breakers and panels . this fact can be very important when installed near salt water livestock or excessive moisture areas that can destroy aluminum . these materials are brand new and have been in my stock for over thirty to forty years . if you have the need for fpe call me . i do not text . also have good stock of new original zinsco sylvania breakers and panels again not after market the p in picture is gone . federal pacific fpe stab lok circuit breaker",
+        "traget_price": 110,
+        "gold_respose": "110.00",
+        "gold_process": "The current negotiation progress shows that the buyer is inquiring about the price of the circuit breakers, and the conversation is still in the early stages. The goal is to clearly communicate the target selling price of $110 to the buyer to initiate the negotiation on a positive note.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hi there', 'buyer': 'hello how you doing', 'seller': 'Good, are you contacting me about the circuit breakers?', 'buyer': 'yeah how much are you asking for it'"
+    },
+    {
+        "ID": 1057,
+        "item_description": "electronics i have new original hard to find federal pacific electric fpe also known as stab lok later also made by american circuit breaker and challenger . these are new original manufacturer oem breakers not after market or refurbished used and cleaned . i also have brand new original fpe sub panels and service panels of different types . i have more breakers of other sizes as well . i bought this equipment many years ago before i retired and when federal pacific was federal pacific electric and produced high grade equipment . fpe breakers later got a bad rap when after market breakers came in to the market . originally federal pacific electric fpe was the only residential switching manufacturer using only copper not aluminum in their breakers and panels . this fact can be very important when installed near salt water livestock or excessive moisture areas that can destroy aluminum . these materials are brand new and have been in my stock for over thirty to forty years . if you have the need for fpe call me . i do not text . also have good stock of new original zinsco sylvania breakers and panels again not after market the p in picture is gone . federal pacific fpe stab lok circuit breaker",
+        "traget_price": 110,
+        "gold_respose": "Well if you read over the ad, they are brand new.  They are older but quality",
+        "gold_process": "The current negotiation progress indicates that the buyer views the asking price of $110 as expensive, suggesting a need to justify the value of the item being sold. An appropriate goal at this stage is to reassure the buyer about the quality and condition of the circuit breakers to retain their interest and potentially ease their concerns about the price.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Address-Concerns",
+        "dialogue_history": "'seller': 'Hi there', 'buyer': 'hello how you doing', 'seller': 'Good, are you contacting me about the circuit breakers?', 'buyer': 'yeah how much are you asking for it', 'seller': '110.00', 'buyer': 'that seems expensive '"
+    },
+    {
+        "ID": 1058,
+        "item_description": "electronics i have new original hard to find federal pacific electric fpe also known as stab lok later also made by american circuit breaker and challenger . these are new original manufacturer oem breakers not after market or refurbished used and cleaned . i also have brand new original fpe sub panels and service panels of different types . i have more breakers of other sizes as well . i bought this equipment many years ago before i retired and when federal pacific was federal pacific electric and produced high grade equipment . fpe breakers later got a bad rap when after market breakers came in to the market . originally federal pacific electric fpe was the only residential switching manufacturer using only copper not aluminum in their breakers and panels . this fact can be very important when installed near salt water livestock or excessive moisture areas that can destroy aluminum . these materials are brand new and have been in my stock for over thirty to forty years . if you have the need for fpe call me . i do not text . also have good stock of new original zinsco sylvania breakers and panels again not after market the p in picture is gone . federal pacific fpe stab lok circuit breaker",
+        "traget_price": 110,
+        "gold_respose": "ok well if you want to do 90 I am ok with going down to there",
+        "gold_process": "The current negotiation progress indicates that the buyer finds the asking price of $110 too high and is suggesting a lower price of $90, citing that they can find similar items for that amount. The goal here is to find a middle ground that would still allow a satisfactory sale while accommodating the buyer's concerns about price.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Hedge",
+        "dialogue_history": "'seller': 'Hi there', 'buyer': 'hello how you doing', 'seller': 'Good, are you contacting me about the circuit breakers?', 'buyer': 'yeah how much are you asking for it', 'seller': '110.00', 'buyer': 'that seems expensive ', 'seller': 'Well if you read over the ad, they are brand new.  They are older but quality', 'buyer': 'i do know they are brand new but i think i can find the same for around 90 on other sites '"
+    },
+    {
+        "ID": 1059,
+        "item_description": "electronics i have new original hard to find federal pacific electric fpe also known as stab lok later also made by american circuit breaker and challenger . these are new original manufacturer oem breakers not after market or refurbished used and cleaned . i also have brand new original fpe sub panels and service panels of different types . i have more breakers of other sizes as well . i bought this equipment many years ago before i retired and when federal pacific was federal pacific electric and produced high grade equipment . fpe breakers later got a bad rap when after market breakers came in to the market . originally federal pacific electric fpe was the only residential switching manufacturer using only copper not aluminum in their breakers and panels . this fact can be very important when installed near salt water livestock or excessive moisture areas that can destroy aluminum . these materials are brand new and have been in my stock for over thirty to forty years . if you have the need for fpe call me . i do not text . also have good stock of new original zinsco sylvania breakers and panels again not after market the p in picture is gone . federal pacific fpe stab lok circuit breaker",
+        "traget_price": 110,
+        "gold_respose": "I offer the price 90.0.",
+        "gold_process": "The current negotiation progress indicates that the buyer believes the item is overpriced based on their knowledge of similar products found elsewhere. The buyer has suggested a price of $90, which the seller has already expressed willingness to accept. Therefore, the goal is to finalize the sale at the agreed price of $90.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hi there', 'buyer': 'hello how you doing', 'seller': 'Good, are you contacting me about the circuit breakers?', 'buyer': 'yeah how much are you asking for it', 'seller': '110.00', 'buyer': 'that seems expensive ', 'seller': 'Well if you read over the ad, they are brand new.  They are older but quality', 'buyer': 'i do know they are brand new but i think i can find the same for around 90 on other sites ', 'seller': 'ok well if you want to do 90 I am ok with going down to there', 'buyer': 'ok sounds good to me '"
+    },
+    {
+        "ID": 1060,
+        "item_description": "housing two bedroom bath townhome with garage and backyard . stove refrigerator dishwasher and garbage disposal . laundry on site . close to schools shopping and easy on off freeway and near transit center . water and garbage paid by owner . please call the owner john no animals no smoking and not accepting section at this time . two bedroom bath townhome",
+        "traget_price": 1800,
+        "gold_respose": "hey there are you looking to buy ?",
+        "gold_process": "The current negotiation progress indicates that we have yet to engage the potential buyer in a meaningful way. With no direct conversation about price or the specifics of the property yet, my goal is to create an open line of communication and gauge the buyer's interest. This will allow me to understand their needs better and tailor the negotiation accordingly.",
+        "dialogue_act": "inquiry",
+        "nego_strategy": "Talk-Informally",
+        "dialogue_history": ""
+    },
+    {
+        "ID": 1061,
+        "item_description": "housing two bedroom bath townhome with garage and backyard . stove refrigerator dishwasher and garbage disposal . laundry on site . close to schools shopping and easy on off freeway and near transit center . water and garbage paid by owner . please call the owner john no animals no smoking and not accepting section at this time . two bedroom bath townhome",
+        "traget_price": 1800,
+        "gold_respose": "Its listed at $1800 but we might be able to work something out. What can you offer? It needs to be reasonable however. And I assume you've read up on the policies such as no pets allowed as well as no smoking.",
+        "gold_process": "Currently, the negotiation progress is at a stage where the buyer is interested and inquiring about the price of the townhome. The seller has set a target selling price of $1800, but is open to negotiating with the buyer to reach a better deal that is still reasonable. An appropriate goal for the seller is to achieve a price close to $1800 while also clarifying the conditions under which the property is rented.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'hey there are you looking to buy ?', 'buyer': 'yes I am, what's the current price?'"
+    },
+    {
+        "ID": 1062,
+        "item_description": "housing two bedroom bath townhome with garage and backyard . stove refrigerator dishwasher and garbage disposal . laundry on site . close to schools shopping and easy on off freeway and near transit center . water and garbage paid by owner . please call the owner john no animals no smoking and not accepting section at this time . two bedroom bath townhome",
+        "traget_price": 1800,
+        "gold_respose": "lowest we can accept is 1500, with the current policies. Im sorry but this will have to be the final offer. I hope we can make this work.",
+        "gold_process": "Currently, the buyer has presented a counteroffer of $1400, citing that the original price of $1800 is out of their budget. They also mentioned that they might be willing to pay more if pets were allowed, indicating that their flexibility is dependent on certain conditions. To reach a better deal, my goal is to find a middle ground that falls closer to my target price while acknowledging the buyer's budget constraints and preferences.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'hey there are you looking to buy ?', 'buyer': 'yes I am, what's the current price?', 'seller': 'Its listed at $1800 but we might be able to work something out. What can you offer? It needs to be reasonable however. And I assume you've read up on the policies such as no pets allowed as well as no smoking.', 'buyer': '1800 is a little out of my budget, especially since it's only a two bedroom and its no pets. I would be willing to be  around $1400. Maybe more for pets'"
+    },
+    {
+        "ID": 1063,
+        "item_description": "housing two bedroom bath townhome with garage and backyard . stove refrigerator dishwasher and garbage disposal . laundry on site . close to schools shopping and easy on off freeway and near transit center . water and garbage paid by owner . please call the owner john no animals no smoking and not accepting section at this time . two bedroom bath townhome",
+        "traget_price": 1800,
+        "gold_respose": "I offer the price 1500.0.",
+        "gold_process": "The current negotiation progress shows that the seller has established a firm price floor of $1500, which is still below the target price of $1800. The buyer expressed that their maximum budget is around $1400, indicating a gap that needs to be closed for both parties to reach an agreement. Since the buyer is initially hesitant about the seller’s offer, my goal should be to nudge the buyer toward accepting the lowest price I can offer, which is $1500.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'hey there are you looking to buy ?', 'buyer': 'yes I am, what's the current price?', 'seller': 'Its listed at $1800 but we might be able to work something out. What can you offer? It needs to be reasonable however. And I assume you've read up on the policies such as no pets allowed as well as no smoking.', 'buyer': '1800 is a little out of my budget, especially since it's only a two bedroom and its no pets. I would be willing to be  around $1400. Maybe more for pets', 'seller': 'lowest we can accept is 1500, with the current policies. Im sorry but this will have to be the final offer. I hope we can make this work.'"
+    },
+    {
+        "ID": 1064,
+        "item_description": "housing santa clara avenue is a quaint apartment complex located in the heart of the park avenue shopping district of alameda . conveniently located minutes away from i restaurants movie theater cvs and tons of boutique style shops . the building has open floor plans and completely updated apartment interiors . individual apartment units include modern dual pane windows and newer carpet . apartment units are very bright and modern having been extensively remodeled in and . we are now renting apartment a a very large bedroom bath apartment with the following amenities . recessed lighting synthetic stone tub shower surround new casement windows recently installed new light fixtures paint and carpet dishwasher ample closet space dedicated and reserved parking space that can hold up to cars laundry room on the premises please call me if you would like to tour this wonderful apartment ! oversized updated apartment with parking",
+        "traget_price": 2595,
+        "gold_respose": "Hi would you like to rent this beautiful unit?",
+        "gold_process": "The current negotiation progress shows that the buyer is exploring rental options, but they have not yet made a decision or a specific offer. My goal is to engage the buyer and encourage them to consider this lovely apartment by showcasing its features as well as inviting them for a closer look at the property.",
+        "dialogue_act": "inquiry",
+        "nego_strategy": "Communicate-Politely",
+        "dialogue_history": ""
+    },
+    {
+        "ID": 1065,
+        "item_description": "housing santa clara avenue is a quaint apartment complex located in the heart of the park avenue shopping district of alameda . conveniently located minutes away from i restaurants movie theater cvs and tons of boutique style shops . the building has open floor plans and completely updated apartment interiors . individual apartment units include modern dual pane windows and newer carpet . apartment units are very bright and modern having been extensively remodeled in and . we are now renting apartment a a very large bedroom bath apartment with the following amenities . recessed lighting synthetic stone tub shower surround new casement windows recently installed new light fixtures paint and carpet dishwasher ample closet space dedicated and reserved parking space that can hold up to cars laundry room on the premises please call me if you would like to tour this wonderful apartment ! oversized updated apartment with parking",
+        "traget_price": 2595,
+        "gold_respose": "unfortunately not. The lowest I can go is $2000",
+        "gold_process": "Currently, the negotiation progress shows that the buyer has proposed a significantly lower price of $1800 for the apartment, while my target selling price is $2595. The buyer's offer is quite far from my goal, which indicates that there needs to be a counter-offer that is still acceptable to me, while also moving the conversation forward. An appropriate goal here would be to find a price that is more aligned with my expectations but still open for negotiation.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hi would you like to rent this beautiful unit?', 'buyer': 'I saw you had your apartment listed. Could you possibly take $1800 for it?'"
+    },
+    {
+        "ID": 1066,
+        "item_description": "housing santa clara avenue is a quaint apartment complex located in the heart of the park avenue shopping district of alameda . conveniently located minutes away from i restaurants movie theater cvs and tons of boutique style shops . the building has open floor plans and completely updated apartment interiors . individual apartment units include modern dual pane windows and newer carpet . apartment units are very bright and modern having been extensively remodeled in and . we are now renting apartment a a very large bedroom bath apartment with the following amenities . recessed lighting synthetic stone tub shower surround new casement windows recently installed new light fixtures paint and carpet dishwasher ample closet space dedicated and reserved parking space that can hold up to cars laundry room on the premises please call me if you would like to tour this wonderful apartment ! oversized updated apartment with parking",
+        "traget_price": 2595,
+        "gold_respose": "Appliances are included & new. New car",
+        "gold_process": "The current negotiation progress indicates that the buyer has made a substantial attempt to propose a price significantly lower than my asking price, and I have countered with a marginal increase in my lowest acceptable price. The buyer has responded with a similarly low counter-offer, showcasing their unwillingness to meet my price. An appropriate goal at this stage is to highlight the value of the apartment in order to justify the price and potentially secure a better offer.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Describe-Product",
+        "dialogue_history": "'seller': 'Hi would you like to rent this beautiful unit?', 'buyer': 'I saw you had your apartment listed. Could you possibly take $1800 for it?', 'seller': 'unfortunately not. The lowest I can go is $2000', 'buyer': 'I'm sorry but the highest I could go is $1815.'"
+    },
+    {
+        "ID": 1067,
+        "item_description": "housing middle level one bedroom one bathroom within a large victorian . located next door to the chestnut encinal market this unit features dark hardwood floors updated cabinets in the kitchen gas stove and a dishwasher . with an updated vanity in the bathroom this home gets great natural sunlight and is a must see for those looking to be located in central alameda . one year lease no pets tenant pays gas electricity and splits one time rental fee with owner . coin laundry located on site and street parking only . one year lease no pets tenant pays gas electricity and splits one time rental fee with owner . coin laundry located on site and street parking only . unit available now give our office a call to schedule a showing . central alameda one bed one bath chestnut street a",
+        "traget_price": 1700,
+        "gold_respose": "that it is and it comes with stove, dishwashed, nice cabinets as well.",
+        "gold_process": "The current negotiation progress shows that the buyer has expressed interest in the property by complimenting it. This opens a pathway to provide more information that might pique the buyer's interest further and ideally lead to a sale. An appropriate goal at this moment is to emphasize the desirable features of the property to reinforce the buyer's interest and justify the target price of $1700.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Describe-Product",
+        "dialogue_history": "'buyer': 'Hey there, nice house you got here'"
+    },
+    {
+        "ID": 1068,
+        "item_description": "housing middle level one bedroom one bathroom within a large victorian . located next door to the chestnut encinal market this unit features dark hardwood floors updated cabinets in the kitchen gas stove and a dishwasher . with an updated vanity in the bathroom this home gets great natural sunlight and is a must see for those looking to be located in central alameda . one year lease no pets tenant pays gas electricity and splits one time rental fee with owner . coin laundry located on site and street parking only . one year lease no pets tenant pays gas electricity and splits one time rental fee with owner . coin laundry located on site and street parking only . unit available now give our office a call to schedule a showing . central alameda one bed one bath chestnut street a",
+        "traget_price": 1700,
+        "gold_respose": "well there is coin laundry onsite, and the location is beautiful in central Alamadea. I was thinking more of the end of 1600. Remember you do not pay for water.",
+        "gold_process": "The current negotiation progress indicates that the buyer has expressed interest in the property. However, they have concerns regarding the lack of included parking and laundry facilities and have proposed a significantly lower budget of $1,000. As the seller, my goal is to justify the value of the property and negotiate the price closer to my target selling price of $1,700 while addressing the buyer’s concerns.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Communicate-Interests",
+        "dialogue_history": "'buyer': 'Hey there, nice house you got here', 'seller': 'that it is and it comes with stove, dishwashed, nice cabinets as well.', 'buyer': 'I wish it had parking and laundry inclusions, my budget's closer to 1000, but let's negotiate'"
+    },
+    {
+        "ID": 1069,
+        "item_description": "housing middle level one bedroom one bathroom within a large victorian . located next door to the chestnut encinal market this unit features dark hardwood floors updated cabinets in the kitchen gas stove and a dishwasher . with an updated vanity in the bathroom this home gets great natural sunlight and is a must see for those looking to be located in central alameda . one year lease no pets tenant pays gas electricity and splits one time rental fee with owner . coin laundry located on site and street parking only . one year lease no pets tenant pays gas electricity and splits one time rental fee with owner . coin laundry located on site and street parking only . unit available now give our office a call to schedule a showing . central alameda one bed one bath chestnut street a",
+        "traget_price": 1700,
+        "gold_respose": "you drive a hard bargain sir. Very well 1500 it is.",
+        "gold_process": "Currently, the negotiation has reached a point where the buyer has proposed a price of $1500, citing issues with parking and laundry costs. The seller initially aimed for $1600 but is willing to consider the buyer's concerns. An appropriate goal would be to close the negotiation successfully while maximizing profit while maintaining a good relationship with the buyer. The buyer seems hesitant at the current offer and is looking for a lower price due to additional expenses.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'Hey there, nice house you got here', 'seller': 'that it is and it comes with stove, dishwashed, nice cabinets as well.', 'buyer': 'I wish it had parking and laundry inclusions, my budget's closer to 1000, but let's negotiate', 'seller': 'well there is coin laundry onsite, and the location is beautiful in central Alamadea. I was thinking more of the end of 1600. Remember you do not pay for water.', 'buyer': 'See, it's hard because you have all these great amenities, but I'll go to 1500 with you for them. Like I said, I'll have to pay out for laundry parking and other amenities anyways'"
+    },
+    {
+        "ID": 1070,
+        "item_description": "housing middle level one bedroom one bathroom within a large victorian . located next door to the chestnut encinal market this unit features dark hardwood floors updated cabinets in the kitchen gas stove and a dishwasher . with an updated vanity in the bathroom this home gets great natural sunlight and is a must see for those looking to be located in central alameda . one year lease no pets tenant pays gas electricity and splits one time rental fee with owner . coin laundry located on site and street parking only . one year lease no pets tenant pays gas electricity and splits one time rental fee with owner . coin laundry located on site and street parking only . unit available now give our office a call to schedule a showing . central alameda one bed one bath chestnut street a",
+        "traget_price": 1700,
+        "gold_respose": "I offer the price 1500.0.",
+        "gold_process": "The current negotiation has progressed with the buyer expressing interest in the property but citing budget constraints and the need to accommodate additional costs for amenities. The seller has already made a concession by agreeing to a price of $1500, but the target selling price remains at $1700. An appropriate goal would be to find a middle ground that does not significantly compromise the seller's price expectations while considering the buyer's budget.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'Hey there, nice house you got here', 'seller': 'that it is and it comes with stove, dishwashed, nice cabinets as well.', 'buyer': 'I wish it had parking and laundry inclusions, my budget's closer to 1000, but let's negotiate', 'seller': 'well there is coin laundry onsite, and the location is beautiful in central Alamadea. I was thinking more of the end of 1600. Remember you do not pay for water.', 'buyer': 'See, it's hard because you have all these great amenities, but I'll go to 1500 with you for them. Like I said, I'll have to pay out for laundry parking and other amenities anyways', 'seller': 'you drive a hard bargain sir. Very well 1500 it is.'"
+    },
+    {
+        "ID": 1071,
+        "item_description": "car ice blue with black strip . black leatherette seats black alloy wheels star spoke . bluetooth and usb ipad adapter . steptronic automatic trans . all regular maintenance has been done paper work included . mini cooper hardtop",
+        "traget_price": 10200,
+        "gold_respose": "She's a beauty huh???",
+        "gold_process": "The current negotiation progress indicates a positive tone, with the buyer showing interest in the car, as inferred from their comment “She's a beauty huh???” This suggests that the buyer is appreciating the car, which is a good sign for further negotiations. An appropriate goal here would be to build on this rapport while gently reaffirming the value of the vehicle to justify the selling price of $10,200.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Build-Rapport",
+        "dialogue_history": ""
+    },
+    {
+        "ID": 1072,
+        "item_description": "car ice blue with black strip . black leatherette seats black alloy wheels star spoke . bluetooth and usb ipad adapter . steptronic automatic trans . all regular maintenance has been done paper work included . mini cooper hardtop",
+        "traget_price": 10200,
+        "gold_respose": "Great shape! All maintenance has been done, all paperwork is included, bluetooth and ipad adapter included. She's a beaut!",
+        "gold_process": "The current negotiation progress indicates that the buyer is expressing interest in the car and is concerned about its condition. To encourage a favorable response, the goal should be to reassure the buyer about the car's excellent condition and added features, thereby boosting their interest and confidence in making a purchase.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Describe-Product",
+        "dialogue_history": "'seller': 'She's a beauty huh???', 'buyer': 'Hi, I'm ver interested in the car. is it in good shape?'"
+    },
+    {
+        "ID": 1073,
+        "item_description": "car ice blue with black strip . black leatherette seats black alloy wheels star spoke . bluetooth and usb ipad adapter . steptronic automatic trans . all regular maintenance has been done paper work included . mini cooper hardtop",
+        "traget_price": 10200,
+        "gold_respose": "That's the best part. Only 60,000",
+        "gold_process": "The current negotiation progress shows that the buyer is interested in the car and is asking relevant questions about its condition and mileage, which indicates genuine interest. Given the target selling price of $10,200 and that I want to provide additional appealing information to encourage the buyer, my goal is to maintain the buyer's interest while guiding them towards considering the price.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'She's a beauty huh???', 'buyer': 'Hi, I'm ver interested in the car. is it in good shape?', 'seller': 'Great shape! All maintenance has been done, all paperwork is included, bluetooth and ipad adapter included. She's a beaut!', 'buyer': 'What's the mileage on it?'"
+    },
+    {
+        "ID": 1074,
+        "item_description": "car ice blue with black strip . black leatherette seats black alloy wheels star spoke . bluetooth and usb ipad adapter . steptronic automatic trans . all regular maintenance has been done paper work included . mini cooper hardtop",
+        "traget_price": 10200,
+        "gold_respose": "Yowsers! that is quite low. I definitely remember the old college days though so happy to make a deal. what about $7,000?",
+        "gold_process": "The current negotiation progress indicates that the buyer has expressed keen interest in the car but has proposed a significantly low offer of $4,000, which is far below the target selling price of $10,200. As a seller, my goal is to negotiate to a better offer that is closer to my asking price while still being reasonable for the buyer.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'She's a beauty huh???', 'buyer': 'Hi, I'm ver interested in the car. is it in good shape?', 'seller': 'Great shape! All maintenance has been done, all paperwork is included, bluetooth and ipad adapter included. She's a beaut!', 'buyer': 'What's the mileage on it?', 'seller': 'That's the best part. Only 60,000', 'buyer': 'It sounds good.... But I just can't afford that price. I'm a student and I simply don't have $10,000. Would you accept.... $4000?'"
+    },
+    {
+        "ID": 1075,
+        "item_description": "car ice blue with black strip . black leatherette seats black alloy wheels star spoke . bluetooth and usb ipad adapter . steptronic automatic trans . all regular maintenance has been done paper work included . mini cooper hardtop",
+        "traget_price": 10200,
+        "gold_respose": "Man. Cash is nice. But $5000 is a bit low. I can do $6250.00 but that is the best I can do. That's almost 50% off which is a bit crazy really........",
+        "gold_process": "The current negotiation progress has the buyer proposing a price significantly lower than the target selling price, indicating their constraints as a student. The seller has already acknowledged this context but has moved from a counter-offer of $7,000 to now needing to bring the price closer to the target. The goal should be to find a middle ground that the buyer is more comfortable with while still benefiting the seller.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'She's a beauty huh???', 'buyer': 'Hi, I'm ver interested in the car. is it in good shape?', 'seller': 'Great shape! All maintenance has been done, all paperwork is included, bluetooth and ipad adapter included. She's a beaut!', 'buyer': 'What's the mileage on it?', 'seller': 'That's the best part. Only 60,000', 'buyer': 'It sounds good.... But I just can't afford that price. I'm a student and I simply don't have $10,000. Would you accept.... $4000?', 'seller': 'Yowsers! that is quite low. I definitely remember the old college days though so happy to make a deal. what about $7,000?', 'buyer': 'How about $5000? I can come get the car tomorrow. Sign all the papers. I can even pay cash.'"
+    },
+    {
+        "ID": 1076,
+        "item_description": "car ice blue with black strip . black leatherette seats black alloy wheels star spoke . bluetooth and usb ipad adapter . steptronic automatic trans . all regular maintenance has been done paper work included . mini cooper hardtop",
+        "traget_price": 10200,
+        "gold_respose": "I offer the price 6250.0.",
+        "gold_process": "The current negotiation progress indicates that the buyer has made an offer of $5000, which is significantly lower than the seller's target price of $10,200. The seller has already offered a counter price of $6250, which they consider the best deal possible. The buyer is currently in a tight financial situation as a student, which provides context for their low offers. The goal now is to find a price that is acceptable for both parties, ideally above $6250 but still recognizing the buyer's constraints.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'She's a beauty huh???', 'buyer': 'Hi, I'm ver interested in the car. is it in good shape?', 'seller': 'Great shape! All maintenance has been done, all paperwork is included, bluetooth and ipad adapter included. She's a beaut!', 'buyer': 'What's the mileage on it?', 'seller': 'That's the best part. Only 60,000', 'buyer': 'It sounds good.... But I just can't afford that price. I'm a student and I simply don't have $10,000. Would you accept.... $4000?', 'seller': 'Yowsers! that is quite low. I definitely remember the old college days though so happy to make a deal. what about $7,000?', 'buyer': 'How about $5000? I can come get the car tomorrow. Sign all the papers. I can even pay cash.', 'seller': 'Man. Cash is nice. But $5000 is a bit low. I can do $6250.00 but that is the best I can do. That's almost 50% off which is a bit crazy really........'"
+    },
+    {
+        "ID": 1077,
+        "item_description": "housing valley plaza villages also has a convenient location that puts you close to the things you need access to every day . we are just a few minutes from dozens of stores and shopping areas delicious restaurants and the area s public transportation system . simplify your hectic lifestyle and apply for one of our apartments in pleasanton ca today ! amenities car wash area lush landscaping microwaves handicap accessible white cabinetry with nickel hardware washer dryer clubhouse with full kitchen walk to historical downtown nearby landmarks iron horse trail pleasanton fairways golf course rubino estates winery and many others historic downtown pleasanton shadow cliffs regional park firehouse arts center stoneridge shopping center alameda county fairgrounds live music at concerts in the park pleasanton farmer s market alviso adobe community park phone us at beautiful garden like feel with grassy areas river rock redwood trees",
+        "traget_price": 2283,
+        "gold_respose": "Hello. I see you are interested in the apartment ",
+        "gold_process": "The current negotiation progress indicates that the potential buyer has shown interest in the apartment. My goal is to strengthen this interest and establish a connection that could lead to a successful transaction. To achieve this, I want to create a welcoming atmosphere and engage the buyer in a friendly manner, making them feel comfortable asking questions or expressing concerns.",
+        "dialogue_act": "intro",
+        "nego_strategy": "Build-Rapport",
+        "dialogue_history": ""
+    },
+    {
+        "ID": 1078,
+        "item_description": "housing santa clara avenue is a quaint apartment complex located in the heart of the park avenue shopping district of alameda . conveniently located minutes away from i restaurants movie theater cvs and tons of boutique style shops . the building has open floor plans and completely updated apartment interiors . individual apartment units include modern dual pane windows and newer carpet . apartment units are very bright and modern having been extensively remodeled in and . we are now renting apartment a a very large bedroom bath apartment with the following amenities . recessed lighting synthetic stone tub shower surround new casement windows recently installed new light fixtures paint and carpet dishwasher ample closet space dedicated and reserved parking space that can hold up to cars laundry room on the premises please call me if you would like to tour this wonderful apartment ! oversized updated apartment with parking",
+        "traget_price": 2595,
+        "gold_respose": "Hi! I hear you're interested in the Santa Clara apartment ",
+        "gold_process": "The current negotiation progress indicates that the buyer has shown interest in the apartment on Santa Clara Avenue, but there hasn't been much dialogue yet to establish a connection or rapport. An appropriate goal is to engage the buyer further and make them feel welcomed and valued, which can help facilitate the negotiation process.",
+        "dialogue_act": "intro",
+        "nego_strategy": "Build-Rapport",
+        "dialogue_history": ""
+    },
+    {
+        "ID": 1079,
+        "item_description": "housing santa clara avenue is a quaint apartment complex located in the heart of the park avenue shopping district of alameda . conveniently located minutes away from i restaurants movie theater cvs and tons of boutique style shops . the building has open floor plans and completely updated apartment interiors . individual apartment units include modern dual pane windows and newer carpet . apartment units are very bright and modern having been extensively remodeled in and . we are now renting apartment a a very large bedroom bath apartment with the following amenities . recessed lighting synthetic stone tub shower surround new casement windows recently installed new light fixtures paint and carpet dishwasher ample closet space dedicated and reserved parking space that can hold up to cars laundry room on the premises please call me if you would like to tour this wonderful apartment ! oversized updated apartment with parking",
+        "traget_price": 2595,
+        "gold_respose": "There's no individual backyard but there's a communal outdoors area that you won't be responsible for maintaining!",
+        "gold_process": "The current negotiation progress indicates that the buyer is interested in the apartment but has a concern regarding the availability of a backyard, which is a key aspect for many renters. My goal is to address this concern while reinforcing the apartment's value and amenities to keep the buyer interested and moving towards a successful rental agreement.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Address-Concerns",
+        "dialogue_history": "'seller': 'Hi! I hear you're interested in the Santa Clara apartment ', 'buyer': 'Yes it looks beautiful. Is there a backyard?'"
+    },
+    {
+        "ID": 1080,
+        "item_description": "housing santa clara avenue is a quaint apartment complex located in the heart of the park avenue shopping district of alameda . conveniently located minutes away from i restaurants movie theater cvs and tons of boutique style shops . the building has open floor plans and completely updated apartment interiors . individual apartment units include modern dual pane windows and newer carpet . apartment units are very bright and modern having been extensively remodeled in and . we are now renting apartment a a very large bedroom bath apartment with the following amenities . recessed lighting synthetic stone tub shower surround new casement windows recently installed new light fixtures paint and carpet dishwasher ample closet space dedicated and reserved parking space that can hold up to cars laundry room on the premises please call me if you would like to tour this wonderful apartment ! oversized updated apartment with parking",
+        "traget_price": 2595,
+        "gold_respose": "No, you'll be responsible for furnishing it yourself. ",
+        "gold_process": "The current negotiation progress indicates that the buyer is interested in the apartment and has asked specific questions regarding the backyard and furnishing. The seller has responded positively to the buyer's inquiries, which helps to build rapport. However, the buyer's expectation of a fully furnished apartment suggests a potential concern about additional costs. The goal is to clarify the furnishing situation and manage the buyer's expectations without appearing dismissive or negatively affecting their interest.",
+        "dialogue_act": "disagree",
+        "nego_strategy": "Do-Not-Propose-First",
+        "dialogue_history": "'seller': 'Hi! I hear you're interested in the Santa Clara apartment ', 'buyer': 'Yes it looks beautiful. Is there a backyard?', 'seller': 'There's no individual backyard but there's a communal outdoors area that you won't be responsible for maintaining!', 'buyer': 'That's great. The wife and kids will love that. Does it come fully furnished?'"
+    },
+    {
+        "ID": 1081,
+        "item_description": "housing santa clara avenue is a quaint apartment complex located in the heart of the park avenue shopping district of alameda . conveniently located minutes away from i restaurants movie theater cvs and tons of boutique style shops . the building has open floor plans and completely updated apartment interiors . individual apartment units include modern dual pane windows and newer carpet . apartment units are very bright and modern having been extensively remodeled in and . we are now renting apartment a a very large bedroom bath apartment with the following amenities . recessed lighting synthetic stone tub shower surround new casement windows recently installed new light fixtures paint and carpet dishwasher ample closet space dedicated and reserved parking space that can hold up to cars laundry room on the premises please call me if you would like to tour this wonderful apartment ! oversized updated apartment with parking",
+        "traget_price": 2595,
+        "gold_respose": "No worries! It's a first-floor apartment ",
+        "gold_process": "Currently, the buyer has expressed concerns regarding the logistics of moving their larger items into the apartment, especially given the stairs. Addressing these concerns is crucial to ease the buyer's worries and encourage a positive decision. My goal is to reassure the buyer about the apartment's accessibility in relation to their furniture moving concerns.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Address-Concerns",
+        "dialogue_history": "'seller': 'Hi! I hear you're interested in the Santa Clara apartment ', 'buyer': 'Yes it looks beautiful. Is there a backyard?', 'seller': 'There's no individual backyard but there's a communal outdoors area that you won't be responsible for maintaining!', 'buyer': 'That's great. The wife and kids will love that. Does it come fully furnished?', 'seller': 'No, you'll be responsible for furnishing it yourself. ', 'buyer': 'Hmm that may be a problem with all of those steps we need to climb. The bed, the grand piano, the grandfather clock...'"
+    },
+    {
+        "ID": 1082,
+        "item_description": "housing santa clara avenue is a quaint apartment complex located in the heart of the park avenue shopping district of alameda . conveniently located minutes away from i restaurants movie theater cvs and tons of boutique style shops . the building has open floor plans and completely updated apartment interiors . individual apartment units include modern dual pane windows and newer carpet . apartment units are very bright and modern having been extensively remodeled in and . we are now renting apartment a a very large bedroom bath apartment with the following amenities . recessed lighting synthetic stone tub shower surround new casement windows recently installed new light fixtures paint and carpet dishwasher ample closet space dedicated and reserved parking space that can hold up to cars laundry room on the premises please call me if you would like to tour this wonderful apartment ! oversized updated apartment with parking",
+        "traget_price": 2595,
+        "gold_respose": "Not particularly. We like to replace all carpets after tenants who have pets -- even if there is not extensive damage, we find new tenants enjoy the brand-new features. If you think you might be interested in a tour, we can set something up?",
+        "gold_process": "The current negotiation progress shows that the buyer is interested in the apartment but has some concerns about the recent remodeling and the need to furnish the unit themselves, especially considering the logistics of moving heavy items. The goal here is to reassure the buyer about the remodeling and mitigate their apprehensions regarding moving in.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Address-Concerns",
+        "dialogue_history": "'seller': 'Hi! I hear you're interested in the Santa Clara apartment ', 'buyer': 'Yes it looks beautiful. Is there a backyard?', 'seller': 'There's no individual backyard but there's a communal outdoors area that you won't be responsible for maintaining!', 'buyer': 'That's great. The wife and kids will love that. Does it come fully furnished?', 'seller': 'No, you'll be responsible for furnishing it yourself. ', 'buyer': 'Hmm that may be a problem with all of those steps we need to climb. The bed, the grand piano, the grandfather clock...', 'seller': 'No worries! It's a first-floor apartment ', 'buyer': 'Why was the unit extensively remodeled after only 2 years? Was there some sort of damage?'"
+    },
+    {
+        "ID": 1083,
+        "item_description": "housing santa clara avenue is a quaint apartment complex located in the heart of the park avenue shopping district of alameda . conveniently located minutes away from i restaurants movie theater cvs and tons of boutique style shops . the building has open floor plans and completely updated apartment interiors . individual apartment units include modern dual pane windows and newer carpet . apartment units are very bright and modern having been extensively remodeled in and . we are now renting apartment a a very large bedroom bath apartment with the following amenities . recessed lighting synthetic stone tub shower surround new casement windows recently installed new light fixtures paint and carpet dishwasher ample closet space dedicated and reserved parking space that can hold up to cars laundry room on the premises please call me if you would like to tour this wonderful apartment ! oversized updated apartment with parking",
+        "traget_price": 2595,
+        "gold_respose": "Sorry, no. That's much too low for the area. I'm confident we'll have interest in the apartment at $2595. I can drop it as low as $2495. ",
+        "gold_process": "The current negotiation progress indicates that the buyer is expressing concerns about the price of the apartment, suggesting $2000 while the asking price is $2595. To reach a better deal, my goal is to convey the value of the apartment and bring the buyer closer to my target price, ideally encouraging a higher offer than $2000 while remaining open to some negotiation space.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hi! I hear you're interested in the Santa Clara apartment ', 'buyer': 'Yes it looks beautiful. Is there a backyard?', 'seller': 'There's no individual backyard but there's a communal outdoors area that you won't be responsible for maintaining!', 'buyer': 'That's great. The wife and kids will love that. Does it come fully furnished?', 'seller': 'No, you'll be responsible for furnishing it yourself. ', 'buyer': 'Hmm that may be a problem with all of those steps we need to climb. The bed, the grand piano, the grandfather clock...', 'seller': 'No worries! It's a first-floor apartment ', 'buyer': 'Why was the unit extensively remodeled after only 2 years? Was there some sort of damage?', 'seller': 'Not particularly. We like to replace all carpets after tenants who have pets -- even if there is not extensive damage, we find new tenants enjoy the brand-new features. If you think you might be interested in a tour, we can set something up?', 'buyer': 'We can but the price seems a bit steep for only 2 bedrooms. I know the asking price is $2595 but would $2000 be doable?'"
+    },
+    {
+        "ID": 1084,
+        "item_description": "housing santa clara avenue is a quaint apartment complex located in the heart of the park avenue shopping district of alameda . conveniently located minutes away from i restaurants movie theater cvs and tons of boutique style shops . the building has open floor plans and completely updated apartment interiors . individual apartment units include modern dual pane windows and newer carpet . apartment units are very bright and modern having been extensively remodeled in and . we are now renting apartment a a very large bedroom bath apartment with the following amenities . recessed lighting synthetic stone tub shower surround new casement windows recently installed new light fixtures paint and carpet dishwasher ample closet space dedicated and reserved parking space that can hold up to cars laundry room on the premises please call me if you would like to tour this wonderful apartment ! oversized updated apartment with parking",
+        "traget_price": 2595,
+        "gold_respose": "I offer the price 2495.0.",
+        "gold_process": "The current negotiation has progressed to the point where the buyer has raised a concern about the price, suggesting $2000, while I have countered with the lowest price of $2495. The buyer is likely looking for a more favorable deal, but my price is already competitive for the area and the amenities offered in the apartment. My goal is to finalize the deal at a price that reflects the value of the property while being acceptable to the buyer.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hi! I hear you're interested in the Santa Clara apartment ', 'buyer': 'Yes it looks beautiful. Is there a backyard?', 'seller': 'There's no individual backyard but there's a communal outdoors area that you won't be responsible for maintaining!', 'buyer': 'That's great. The wife and kids will love that. Does it come fully furnished?', 'seller': 'No, you'll be responsible for furnishing it yourself. ', 'buyer': 'Hmm that may be a problem with all of those steps we need to climb. The bed, the grand piano, the grandfather clock...', 'seller': 'No worries! It's a first-floor apartment ', 'buyer': 'Why was the unit extensively remodeled after only 2 years? Was there some sort of damage?', 'seller': 'Not particularly. We like to replace all carpets after tenants who have pets -- even if there is not extensive damage, we find new tenants enjoy the brand-new features. If you think you might be interested in a tour, we can set something up?', 'buyer': 'We can but the price seems a bit steep for only 2 bedrooms. I know the asking price is $2595 but would $2000 be doable?', 'seller': 'Sorry, no. That's much too low for the area. I'm confident we'll have interest in the apartment at $2595. I can drop it as low as $2495. '"
+    },
+    {
+        "ID": 1085,
+        "item_description": "electronics manufacturer hitachi excellent condition and works perfectly . almost never use features digital storage with measurement parameter windows comparators and many others . high sample mega samples second external display with vga output useful to see in bigger screen set condition for go and no go with external trigger rs interface floppy disk storage for waveform data to be exported to pc many others price including lcd monitor of mhz probes and power cords i am in bay area my cell digital oscilloscope channels mhz hitachi vc",
+        "traget_price": 490,
+        "gold_respose": "hello. oscilloscope for sale here. ",
+        "gold_process": "The current negotiation progress seems to be at an initial stage where the buyer is gathering information about the item, but there hasn't been a concrete proposal or significant interaction yet. The goal is to gain the buyer's interest and convey the value of the oscilloscope effectively, which can lead to a successful negotiation towards the target selling price of $490.",
+        "dialogue_act": "intro",
+        "nego_strategy": "Describe-Product",
+        "dialogue_history": ""
+    },
+    {
+        "ID": 1086,
+        "item_description": "electronics manufacturer hitachi excellent condition and works perfectly . almost never use features digital storage with measurement parameter windows comparators and many others . high sample mega samples second external display with vga output useful to see in bigger screen set condition for go and no go with external trigger rs interface floppy disk storage for waveform data to be exported to pc many others price including lcd monitor of mhz probes and power cords i am in bay area my cell digital oscilloscope channels mhz hitachi vc",
+        "traget_price": 490,
+        "gold_respose": "NO that's way too low ",
+        "gold_process": "The current negotiation progress indicates that the buyer has proposed a significantly low price of $320 for the oscilloscope, which is far below the target selling price of $490. Considering the value and condition of the item, it's important to firmly communicate that the offered price is unacceptable while maintaining a professional tone.",
+        "dialogue_act": "disagree",
+        "nego_strategy": "Negative-Sentiment",
+        "dialogue_history": "'seller': 'hello. oscilloscope for sale here. ', 'buyer': 'Hi would you take 320?'"
+    },
+    {
+        "ID": 1087,
+        "item_description": "electronics manufacturer hitachi excellent condition and works perfectly . almost never use features digital storage with measurement parameter windows comparators and many others . high sample mega samples second external display with vga output useful to see in bigger screen set condition for go and no go with external trigger rs interface floppy disk storage for waveform data to be exported to pc many others price including lcd monitor of mhz probes and power cords i am in bay area my cell digital oscilloscope channels mhz hitachi vc",
+        "traget_price": 490,
+        "gold_respose": "that's just 10 bucks above your last offer. no. ",
+        "gold_process": "Currently, we are negotiating the price of the oscilloscope. The buyer has offered $330, which is only a slight increase from their previous offer of $320. As the seller, I have a target price of $490, which significantly exceeds the buyer's current offer. My goal is to establish that their most recent offer is still not acceptable and to maintain my position on the value of the oscilloscope.",
+        "dialogue_act": "disagree",
+        "nego_strategy": "Negative-Sentiment",
+        "dialogue_history": "'seller': 'hello. oscilloscope for sale here. ', 'buyer': 'Hi would you take 320?', 'seller': 'NO that's way too low ', 'buyer': 'how abour 330?'"
+    },
+    {
+        "ID": 1088,
+        "item_description": "electronics manufacturer hitachi excellent condition and works perfectly . almost never use features digital storage with measurement parameter windows comparators and many others . high sample mega samples second external display with vga output useful to see in bigger screen set condition for go and no go with external trigger rs interface floppy disk storage for waveform data to be exported to pc many others price including lcd monitor of mhz probes and power cords i am in bay area my cell digital oscilloscope channels mhz hitachi vc",
+        "traget_price": 490,
+        "gold_respose": "um... no. tell you what. i'll let you have it for... 450 ",
+        "gold_process": "The current negotiation progress reveals that the buyer has been offering low prices (starting from 320 and slowly increasing to 331), while I have firmly rejected these offers, indicating that they are too low. The buyer's incrementally higher offers suggest that they may be willing to negotiate but are still far from my target price of 490. My appropriate goal now is to get closer to the target price without completely scaring off the buyer.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'hello. oscilloscope for sale here. ', 'buyer': 'Hi would you take 320?', 'seller': 'NO that's way too low ', 'buyer': 'how abour 330?', 'seller': 'that's just 10 bucks above your last offer. no. ', 'buyer': '331?'"
+    },
+    {
+        "ID": 1089,
+        "item_description": "electronics manufacturer hitachi excellent condition and works perfectly . almost never use features digital storage with measurement parameter windows comparators and many others . high sample mega samples second external display with vga output useful to see in bigger screen set condition for go and no go with external trigger rs interface floppy disk storage for waveform data to be exported to pc many others price including lcd monitor of mhz probes and power cords i am in bay area my cell digital oscilloscope channels mhz hitachi vc",
+        "traget_price": 490,
+        "gold_respose": "ah fair enough. maybe look elsewhere. good luck",
+        "gold_process": "The current negotiation progress indicates that the buyer has made several low offers that are significantly below the selling price, even though there was a slight increase to $331. The seller has already offered a price of $450, which is still below the target selling price of $490. The buyer's last statement shows a maximum budget that is still lower than the seller's offer, suggesting that the buyer may not be willing to negotiate further. An appropriate goal moving forward would be to politely decline the buyer's offer while remaining firm on the selling price.",
+        "dialogue_act": "disagree",
+        "nego_strategy": "Negative-Sentiment",
+        "dialogue_history": "'seller': 'hello. oscilloscope for sale here. ', 'buyer': 'Hi would you take 320?', 'seller': 'NO that's way too low ', 'buyer': 'how abour 330?', 'seller': 'that's just 10 bucks above your last offer. no. ', 'buyer': '331?', 'seller': 'um... no. tell you what. i'll let you have it for... 450 ', 'buyer': 'oh... thank you max budget was 349 :('"
+    },
+    {
+        "ID": 1090,
+        "item_description": "electronics manufacturer hitachi excellent condition and works perfectly . almost never use features digital storage with measurement parameter windows comparators and many others . high sample mega samples second external display with vga output useful to see in bigger screen set condition for go and no go with external trigger rs interface floppy disk storage for waveform data to be exported to pc many others price including lcd monitor of mhz probes and power cords i am in bay area my cell digital oscilloscope channels mhz hitachi vc",
+        "traget_price": 490,
+        "gold_respose": "quit",
+        "gold_process": "The current negotiation progress indicates that the buyer has expressed a willingness to negotiate but has provided offers significantly lower than the target price of $490. The seller has made a concession to $450, but the buyer's best offer is $349, which is still below the seller’s acceptable range. Given the buyer's unwillingness to move significantly from their last offer, the goal should be to avoid making any further concessions and to end the negotiation on a clear note.",
+        "dialogue_act": "others",
+        "nego_strategy": "Do-Not-Propose-First",
+        "dialogue_history": "'seller': 'hello. oscilloscope for sale here. ', 'buyer': 'Hi would you take 320?', 'seller': 'NO that's way too low ', 'buyer': 'how abour 330?', 'seller': 'that's just 10 bucks above your last offer. no. ', 'buyer': '331?', 'seller': 'um... no. tell you what. i'll let you have it for... 450 ', 'buyer': 'oh... thank you max budget was 349 :(', 'seller': 'ah fair enough. maybe look elsewhere. good luck', 'buyer': 'ok good selling it for that price'"
+    },
+    {
+        "ID": 1091,
+        "item_description": "bike up for sale is a diamondback r r repainted lapierre aerostorm . this was an optum pro team bike frame that i used sparingly for a season before moving and life getting crazy . frame is a size lg cm . full integrated di compatibility if you ever want to upgrade . bike includes shifters da tt shifters cranks dura ace mm also available is the matching stages power meter stem zipp sc and three di integrated custom color matched stems bars zipp vuka bull carbon basebar zipp vuka alumina with full set of mm mm and mm risers and screws ceegees pads rear brake bontrager speed stop for use with stages or da for use without stages seatpost straight and setback posts i am with long upper arms . my fit is plus or minus a few mm measurement error pad stack . cm pad reach . cm saddle setback . cm pad height cm diamondback r r lapierre aerostorm tt bike cm lg",
+        "traget_price": 1800,
+        "gold_respose": "Lets make a deal! I hate to get rid of it, but I have to let go",
+        "gold_process": "The current negotiation is just in the initial stages, with the buyer expressing interest in buying the diamondback R8R TT Bike. My goal is to engage the buyer in the deal by expressing my need to sell and opening the floor for price negotiation.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Communicate-Interests",
+        "dialogue_history": "'buyer': 'hey there id love to buy your diamondback R8R TT Bike'"
+    },
+    {
+        "ID": 1092,
+        "item_description": "bike up for sale is a diamondback r r repainted lapierre aerostorm . this was an optum pro team bike frame that i used sparingly for a season before moving and life getting crazy . frame is a size lg cm . full integrated di compatibility if you ever want to upgrade . bike includes shifters da tt shifters cranks dura ace mm also available is the matching stages power meter stem zipp sc and three di integrated custom color matched stems bars zipp vuka bull carbon basebar zipp vuka alumina with full set of mm mm and mm risers and screws ceegees pads rear brake bontrager speed stop for use with stages or da for use without stages seatpost straight and setback posts i am with long upper arms . my fit is plus or minus a few mm measurement error pad stack . cm pad reach . cm saddle setback . cm pad height cm diamondback r r lapierre aerostorm tt bike cm lg",
+        "traget_price": 1800,
+        "gold_respose": "Its about the nicest you can get! I'd hate to let it go for less than 1800",
+        "gold_process": "The current negotiation progress shows a mutual appreciation for the bike, with the buyer expressing interest and the seller indicating a willingness to negotiate. The buyer's inquiry about the bike's quality suggests they may be looking to justify the price or are assessing the value. An appropriate goal here is to reinforce the bike's high quality to support the target selling price of $1800.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Negative-Sentiment",
+        "dialogue_history": "'buyer': 'hey there id love to buy your diamondback R8R TT Bike', 'seller': 'Lets make a deal! I hate to get rid of it, but I have to let go', 'buyer': 'I feel you. Its such a nice bike. Is it really high quality? I see you've had it for a while.'"
+    },
+    {
+        "ID": 1093,
+        "item_description": "bike up for sale is a diamondback r r repainted lapierre aerostorm . this was an optum pro team bike frame that i used sparingly for a season before moving and life getting crazy . frame is a size lg cm . full integrated di compatibility if you ever want to upgrade . bike includes shifters da tt shifters cranks dura ace mm also available is the matching stages power meter stem zipp sc and three di integrated custom color matched stems bars zipp vuka bull carbon basebar zipp vuka alumina with full set of mm mm and mm risers and screws ceegees pads rear brake bontrager speed stop for use with stages or da for use without stages seatpost straight and setback posts i am with long upper arms . my fit is plus or minus a few mm measurement error pad stack . cm pad reach . cm saddle setback . cm pad height cm diamondback r r lapierre aerostorm tt bike cm lg",
+        "traget_price": 1800,
+        "gold_respose": "I can meet you at 1400",
+        "gold_process": "The negotiation progress shows that the buyer initially offered to pay $1500, which is below the seller's target price of $1800. The buyer's starting offer was influenced by their budget and the fact that the bike is used. However, the seller has already established a firm position by stating they would not let it go for less than $1800. The goal here is to reach a compromise that satisfies both parties while still getting closer to the target price. An appropriate goal would be to negotiate to a price that is acceptable to the buyer but also moves towards the seller's target.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'hey there id love to buy your diamondback R8R TT Bike', 'seller': 'Lets make a deal! I hate to get rid of it, but I have to let go', 'buyer': 'I feel you. Its such a nice bike. Is it really high quality? I see you've had it for a while.', 'seller': 'Its about the nicest you can get! I'd hate to let it go for less than 1800', 'buyer': 'I can do $1500 since its really nice, but I was originally looking to only spend around $900. Can you cut me a deal here since its used? I really can't do anything over $1500.'"
+    },
+    {
+        "ID": 1094,
+        "item_description": "bike up for sale is a diamondback r r repainted lapierre aerostorm . this was an optum pro team bike frame that i used sparingly for a season before moving and life getting crazy . frame is a size lg cm . full integrated di compatibility if you ever want to upgrade . bike includes shifters da tt shifters cranks dura ace mm also available is the matching stages power meter stem zipp sc and three di integrated custom color matched stems bars zipp vuka bull carbon basebar zipp vuka alumina with full set of mm mm and mm risers and screws ceegees pads rear brake bontrager speed stop for use with stages or da for use without stages seatpost straight and setback posts i am with long upper arms . my fit is plus or minus a few mm measurement error pad stack . cm pad reach . cm saddle setback . cm pad height cm diamondback r r lapierre aerostorm tt bike cm lg",
+        "traget_price": 1800,
+        "gold_respose": "I offer the price 1400.0.",
+        "gold_process": "The current negotiation has progressed to the buyer offering a price of $1400, which is below my target selling price of $1800. While the buyer has expressed that they can't go above $1500, I've already proposed $1400 as a counteroffer. My goal is to negotiate up towards my target selling price while also acknowledging the buyer's budget constraints.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'hey there id love to buy your diamondback R8R TT Bike', 'seller': 'Lets make a deal! I hate to get rid of it, but I have to let go', 'buyer': 'I feel you. Its such a nice bike. Is it really high quality? I see you've had it for a while.', 'seller': 'Its about the nicest you can get! I'd hate to let it go for less than 1800', 'buyer': 'I can do $1500 since its really nice, but I was originally looking to only spend around $900. Can you cut me a deal here since its used? I really can't do anything over $1500.', 'seller': 'I can meet you at 1400', 'buyer': 'Okay thats a deal!', 'buyer': 'I offer the price 1400.0.'"
+    },
+    {
+        "ID": 1095,
+        "item_description": "furniture please note buyer needs to haul decors shown in pics not included . please email for pick up . loc east dublin ca . ashley reclining leather sofa set new entertainment center",
+        "traget_price": 399,
+        "gold_respose": "It's really great! I wish I didn't have to get rid of it but I'm moving away soon. I bought the set for $800 last year and for$399 I think it's a steal. ",
+        "gold_process": "The buyer has expressed a positive sentiment about the sofa, which indicates interest. However, I have not yet highlighted my urgency in selling the item. My goal is to emphasize my need to sell the furniture soon while reinforcing the value of the price.",
+        "dialogue_act": "inform",
+        "nego_strategy": "Communicate-Interests",
+        "dialogue_history": "'buyer': 'that is a nice sofa'"
+    },
+    {
+        "ID": 1096,
+        "item_description": "furniture please note buyer needs to haul decors shown in pics not included . please email for pick up . loc east dublin ca . ashley reclining leather sofa set new entertainment center",
+        "traget_price": 399,
+        "gold_respose": "Yeah, that seems fair",
+        "gold_process": "The current negotiation progress indicates that the buyer appreciates the sofa set but is concerned about its used condition and the effort required to move it. The buyer's counter-offer of $350 suggests that they are looking for a better deal while expressing their interest. My goal is to maintain a positive relation and reach a fair agreement that satisfies both parties. Since I want to communicate my interest in selling the sofa set quickly while also acknowledging the buyer's offer, I will aim to find a middle ground.",
+        "dialogue_act": "agree",
+        "nego_strategy": "Communicate-Interests",
+        "dialogue_history": "'buyer': 'that is a nice sofa', 'seller': 'It's really great! I wish I didn't have to get rid of it but I'm moving away soon. I bought the set for $800 last year and for$399 I think it's a steal. ', 'buyer': 'indeed but it is still used and i will have to to get it in my house myseld. 350 dollars?'"
+    },
+    {
+        "ID": 1097,
+        "item_description": "furniture please note buyer needs to haul decors shown in pics not included . please email for pick up . loc east dublin ca . ashley reclining leather sofa set new entertainment center",
+        "traget_price": 399,
+        "gold_respose": "I offer the price 350.0.",
+        "gold_process": "The negotiation is currently leaning towards the buyer's offer of $350, which is lower than my target selling price of $399. I had previously indicated that the price of $399 is a good value considering I purchased the set for $800. Given this context, my goal is to negotiate upwards from the buyer's proposed price while still moving towards a mutually agreeable amount.",
+        "dialogue_act": "init-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'buyer': 'that is a nice sofa', 'seller': 'It's really great! I wish I didn't have to get rid of it but I'm moving away soon. I bought the set for $800 last year and for$399 I think it's a steal. ', 'buyer': 'indeed but it is still used and i will have to to get it in my house myseld. 350 dollars?', 'seller': 'Yeah, that seems fair'"
+    },
+    {
+        "ID": 1098,
+        "item_description": "phone i have brand new samsung galaxy s . bought them for my company but didn t end up needing them . i m taking a loss but if you buy multiple i ll cut the price even more . color midnight black please include your phone number in the email or text at samsung galaxy s midnight black brand new gb",
+        "traget_price": 650,
+        "gold_respose": "Hi.",
+        "gold_process": "The current negotiation progress indicates that the buyer has not yet made a direct offer or inquiry about the price, and my goal is to initiate a more engaging conversation that may lead to a negotiation on the price. To achieve this, I should ensure that I communicate politely and create a welcoming atmosphere for the buyer.",
+        "dialogue_act": "intro",
+        "nego_strategy": "Communicate-Politely",
+        "dialogue_history": ""
+    },
+    {
+        "ID": 1099,
+        "item_description": "phone i have brand new samsung galaxy s . bought them for my company but didn t end up needing them . i m taking a loss but if you buy multiple i ll cut the price even more . color midnight black please include your phone number in the email or text at samsung galaxy s midnight black brand new gb",
+        "traget_price": 650,
+        "gold_respose": "I think that is great you want them all , but that price is far too low per phone. ",
+        "gold_process": "Currently, the buyer is interested in purchasing all the phones but has proposed a price of $400 each, which is significantly below my target price of $650. My goal is to negotiate a better deal, ideally raising the price closer to my target while still encouraging the buyer to consider purchasing multiple units.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Address-Concerns",
+        "dialogue_history": "'seller': 'Hi.', 'buyer': 'Hello, straight to the point, I'll take all the phones; however, I can't pay more than 400 each.'"
+    },
+    {
+        "ID": 1100,
+        "item_description": "phone i have brand new samsung galaxy s . bought them for my company but didn t end up needing them . i m taking a loss but if you buy multiple i ll cut the price even more . color midnight black please include your phone number in the email or text at samsung galaxy s midnight black brand new gb",
+        "traget_price": 650,
+        "gold_respose": "How about 580 per phone?",
+        "gold_process": "Currently, the negotiation is focused on the price per phone, with the buyer initially offering $400 each for 10 phones. The seller has indicated that this price is too low, but the buyer is seeking a substantial discount for purchasing in bulk. The goal here is to negotiate a better price that is closer to the target selling price of $650 while still appealing to the buyer's desire for a bulk purchase discount.",
+        "dialogue_act": "counter-price",
+        "nego_strategy": "Propose-Price",
+        "dialogue_history": "'seller': 'Hi.', 'buyer': 'Hello, straight to the point, I'll take all the phones; however, I can't pay more than 400 each.', 'seller': 'I think that is great you want them all , but that price is far too low per phone. ', 'buyer': 'Level with me here, what is your rock bottom. I'm in need of 10 phones for a corporate swag bag, so I'd like to pick some up on the cheap.'"
+    }
+]
